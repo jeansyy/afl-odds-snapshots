@@ -2,7 +2,9 @@ name: AFL odds snapshot
 
 on:
   schedule:
-    - cron: "0 21 * * *"  # 21:00 UTC daily (~8am AEST / 7am AEDT)
+    # Every 30 min, 11am-8:30pm AEDT (= 00:00-09:30 UTC)
+    - cron: "0,30 0-8 * * *"
+    - cron: "0,30 9 * * *"
   workflow_dispatch:
 
 jobs:
