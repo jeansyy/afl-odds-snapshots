@@ -1,0 +1,37 @@
+name: AFL odds snapshot
+
+on:
+  schedule:
+    - cron: "0 21 * * *"  # 21:00 UTC daily (~8am AEST / 7am AEDT)
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Snapshot AFL odds + player props
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/snapshot_afl_odds.py --out outputs/afl_snapshots
+
+      - name: Commit and push snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add outputs/afl_snapshots || true
+          git commit -m "afl odds snapshot" || true
+          git push
