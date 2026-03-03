@@ -19,7 +19,7 @@ from pathlib import Path
 import requests
 
 BASE = "https://api.the-odds-api.com/v4"
-SPORT = "australianfootball_afl"
+SPORT = "aussierules_afl"
 
 # Game-level markets fetched in one bulk call
 GAME_MARKETS = ["h2h", "spreads", "totals"]
