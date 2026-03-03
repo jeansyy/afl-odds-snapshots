@@ -1,0 +1,245 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Carlton Blues,3.5,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Sydney Swans,1.29,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Carlton Blues,3.4,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Sydney Swans,1.29,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Over,1.9,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Under,1.9,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Carlton Blues,3.5,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Sydney Swans,1.3,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Over,1.9,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Under,1.9,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Carlton Blues,3.55,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Sydney Swans,1.3,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Carlton Blues,1.89,22.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Sydney Swans,1.89,-22.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Over,1.88,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Under,1.88,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Carlton Blues,3.35,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Sydney Swans,1.33,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Carlton Blues,3.35,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Sydney Swans,1.33,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Carlton Blues,3.5,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Sydney Swans,1.3,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Carlton Blues,3.55,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Sydney Swans,1.3,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Over,1.88,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Under,1.88,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Carlton Blues,3.56,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Sydney Swans,1.3,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Over,1.88,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Under,1.89,172.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Carlton Blues,3.6,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Sydney Swans,1.28,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Carlton Blues,3.55,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Sydney Swans,1.3,,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Carlton Blues,1.9,23.5,20260303_060344
+8fee12c4bd7c35137e148aca80ea659a,Sydney Swans,Carlton Blues,2026-03-05T08:30:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Sydney Swans,1.9,-23.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Geelong Cats,2.23,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Gold Coast Suns,1.63,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Geelong Cats,2.3,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Gold Coast Suns,1.63,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Geelong Cats,1.9,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Gold Coast Suns,1.9,-7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Over,1.9,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Under,1.9,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Geelong Cats,2.25,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Gold Coast Suns,1.65,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Geelong Cats,1.9,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Gold Coast Suns,1.9,-7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Over,1.9,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Under,1.9,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Geelong Cats,2.25,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Gold Coast Suns,1.65,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Geelong Cats,1.89,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Gold Coast Suns,1.89,-7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Over,1.89,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Under,1.87,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Geelong Cats,2.2,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Gold Coast Suns,1.68,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Geelong Cats,2.2,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Gold Coast Suns,1.68,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Geelong Cats,2.25,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Gold Coast Suns,1.65,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Geelong Cats,1.9,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Gold Coast Suns,1.9,-7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Geelong Cats,2.25,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Gold Coast Suns,1.65,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Geelong Cats,1.9,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Gold Coast Suns,1.9,-7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Over,1.88,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Under,1.88,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Geelong Cats,2.28,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Gold Coast Suns,1.63,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Geelong Cats,1.9,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Gold Coast Suns,1.9,-7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Over,1.9,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Under,1.87,173.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Geelong Cats,2.2,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Gold Coast Suns,1.68,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Geelong Cats,1.9,6.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Gold Coast Suns,1.9,-6.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Geelong Cats,2.24,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Gold Coast Suns,1.65,,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Geelong Cats,1.9,7.5,20260303_060344
+fc57cb223469e00714da6bcca7baa207,Gold Coast Suns,Geelong Cats,2026-03-06T09:05:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Gold Coast Suns,1.9,-7.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Greater Western Sydney Giants,2.4,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Hawthorn Hawks,1.54,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Greater Western Sydney Giants,2.4,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Hawthorn Hawks,1.57,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Hawthorn Hawks,1.9,-9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Over,1.9,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Under,1.9,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Greater Western Sydney Giants,2.4,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Hawthorn Hawks,1.58,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Hawthorn Hawks,1.9,-9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Over,1.9,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Under,1.9,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Greater Western Sydney Giants,2.43,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Hawthorn Hawks,1.55,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Greater Western Sydney Giants,1.89,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Hawthorn Hawks,1.89,-9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Over,1.88,170.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Under,1.88,170.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Greater Western Sydney Giants,2.5,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Hawthorn Hawks,1.53,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Greater Western Sydney Giants,2.5,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Hawthorn Hawks,1.53,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Greater Western Sydney Giants,2.45,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Hawthorn Hawks,1.55,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Hawthorn Hawks,1.9,-9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Greater Western Sydney Giants,2.4,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Hawthorn Hawks,1.57,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Greater Western Sydney Giants,1.9,10.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Hawthorn Hawks,1.9,-10.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Over,1.88,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Under,1.88,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Greater Western Sydney Giants,2.41,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Hawthorn Hawks,1.57,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Hawthorn Hawks,1.9,-9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Over,1.91,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Under,1.86,171.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Greater Western Sydney Giants,2.45,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Hawthorn Hawks,1.57,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Hawthorn Hawks,1.9,-9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Greater Western Sydney Giants,2.4,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Hawthorn Hawks,1.57,,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260303_060344
+ee36229873fb9d7f31db3cb677ebce82,Greater Western Sydney Giants,Hawthorn Hawks,2026-03-07T05:15:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Hawthorn Hawks,1.9,-9.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Brisbane Lions,1.46,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Western Bulldogs,2.65,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Brisbane Lions,1.44,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Western Bulldogs,2.85,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Brisbane Lions,1.9,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Western Bulldogs,1.9,14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Over,1.9,166.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Under,1.9,166.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Brisbane Lions,1.45,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Western Bulldogs,2.75,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Brisbane Lions,1.9,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Western Bulldogs,1.9,14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Over,1.9,165.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Under,1.9,165.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Brisbane Lions,1.47,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Western Bulldogs,2.7,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Brisbane Lions,1.89,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Western Bulldogs,1.89,14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Over,1.88,165.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Under,1.88,165.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Brisbane Lions,1.45,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Western Bulldogs,2.75,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Brisbane Lions,1.45,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Western Bulldogs,2.75,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Brisbane Lions,1.44,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Western Bulldogs,2.8,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Brisbane Lions,1.9,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Western Bulldogs,1.9,14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Brisbane Lions,1.45,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Western Bulldogs,2.75,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Brisbane Lions,1.9,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Western Bulldogs,1.9,14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Over,1.88,165.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Under,1.88,165.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Brisbane Lions,1.45,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Western Bulldogs,2.76,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Brisbane Lions,1.89,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Western Bulldogs,1.91,14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Over,1.89,166.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Under,1.88,166.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Brisbane Lions,1.48,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Western Bulldogs,2.65,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Brisbane Lions,1.9,-13.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Western Bulldogs,1.9,13.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Brisbane Lions,1.45,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Western Bulldogs,2.75,,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Brisbane Lions,1.9,-14.5,20260303_060344
+e8168c3055e0d2f3067bb47a261f9afe,Brisbane Lions,Western Bulldogs,2026-03-07T08:35:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Western Bulldogs,1.9,14.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,Collingwood Magpies,1.82,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,unibet,Unibet,2026-03-03T06:03:25Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,Collingwood Magpies,1.87,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,Collingwood Magpies,1.9,-1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,spreads,St Kilda Saints,1.9,1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Over,1.9,166.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,pointsbetau,PointsBet (AU),2026-03-03T06:03:25Z,totals,Under,1.9,166.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,Collingwood Magpies,1.85,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tab,TAB,2026-03-03T06:02:57Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,Collingwood Magpies,1.95,-2.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tab,TAB,2026-03-03T06:02:57Z,spreads,St Kilda Saints,1.85,2.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Over,1.9,166.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tab,TAB,2026-03-03T06:02:57Z,totals,Under,1.9,166.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,Collingwood Magpies,1.85,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,Collingwood Magpies,1.89,-1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,spreads,St Kilda Saints,1.89,1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Over,1.88,165.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,tabtouch,TABtouch,2026-03-03T06:03:09Z,totals,Under,1.88,165.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,Collingwood Magpies,1.88,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,neds,Neds,2026-03-03T06:02:53Z,h2h,St Kilda Saints,1.92,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,Collingwood Magpies,1.88,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,ladbrokes_au,Ladbrokes,2026-03-03T06:03:25Z,h2h,St Kilda Saints,1.92,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betfair_ex_au,Betfair,2026-03-03T06:03:26Z,h2h,Collingwood Magpies,1.94,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betfair_ex_au,Betfair,2026-03-03T06:03:26Z,h2h,St Kilda Saints,2.02,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betfair_ex_au,Betfair,2026-03-03T06:03:26Z,h2h_lay,Collingwood Magpies,1.98,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betfair_ex_au,Betfair,2026-03-03T06:03:26Z,h2h_lay,St Kilda Saints,2.06,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,Collingwood Magpies,1.85,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betr_au,Betr,2026-03-03T06:03:23Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,Collingwood Magpies,1.9,-1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betr_au,Betr,2026-03-03T06:03:23Z,spreads,St Kilda Saints,1.9,1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,Collingwood Magpies,1.85,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,playup,PlayUp,2026-03-03T06:02:55Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,Collingwood Magpies,1.9,-1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,playup,PlayUp,2026-03-03T06:02:55Z,spreads,St Kilda Saints,1.9,1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Over,1.88,166.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,playup,PlayUp,2026-03-03T06:02:55Z,totals,Under,1.88,166.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,Collingwood Magpies,1.87,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,h2h,St Kilda Saints,1.97,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,Collingwood Magpies,1.91,-1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,spreads,St Kilda Saints,1.89,1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Over,1.88,167.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,sportsbet,SportsBet,2026-03-03T06:03:24Z,totals,Under,1.88,167.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,Collingwood Magpies,1.85,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,h2h,St Kilda Saints,1.95,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,Collingwood Magpies,1.9,-1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,dabble_au,Dabble AU,2026-03-03T06:02:54Z,spreads,St Kilda Saints,1.9,1.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,Collingwood Magpies,1.9,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betright,Bet Right,2026-03-03T06:03:08Z,h2h,St Kilda Saints,1.9,,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,Collingwood Magpies,1.8,2.5,20260303_060344
+32938c3ed956b5d910a6145275ddd22d,St Kilda Saints,Collingwood Magpies,2026-03-08T08:20:00Z,betright,Bet Right,2026-03-03T06:03:08Z,spreads,St Kilda Saints,2.0,-2.5,20260303_060344
