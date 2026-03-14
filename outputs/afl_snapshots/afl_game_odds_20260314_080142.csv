@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,unibet,Unibet,2026-03-14T08:01:19Z,h2h,Brisbane Lions,2.65,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,unibet,Unibet,2026-03-14T08:01:19Z,h2h,Sydney Swans,1.43,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betfair_ex_au,Betfair,2026-03-14T08:01:28Z,h2h,Brisbane Lions,2.58,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betfair_ex_au,Betfair,2026-03-14T08:01:28Z,h2h,Sydney Swans,1.61,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betfair_ex_au,Betfair,2026-03-14T08:01:28Z,h2h_lay,Brisbane Lions,2.66,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betfair_ex_au,Betfair,2026-03-14T08:01:28Z,h2h_lay,Sydney Swans,1.64,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tabtouch,TABtouch,2026-03-14T08:01:34Z,h2h,Brisbane Lions,2.65,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tabtouch,TABtouch,2026-03-14T08:01:34Z,h2h,Sydney Swans,1.43,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tabtouch,TABtouch,2026-03-14T08:01:34Z,spreads,Brisbane Lions,1.89,14.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tabtouch,TABtouch,2026-03-14T08:01:34Z,spreads,Sydney Swans,1.89,-14.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tabtouch,TABtouch,2026-03-14T08:01:34Z,totals,Over,1.91,190.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tabtouch,TABtouch,2026-03-14T08:01:34Z,totals,Under,1.88,190.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,neds,Neds,2026-03-14T08:01:19Z,h2h,Brisbane Lions,2.95,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,neds,Neds,2026-03-14T08:01:19Z,h2h,Sydney Swans,1.4,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,ladbrokes_au,Ladbrokes,2026-03-14T08:01:19Z,h2h,Brisbane Lions,2.95,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,ladbrokes_au,Ladbrokes,2026-03-14T08:01:19Z,h2h,Sydney Swans,1.4,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tab,TAB,2026-03-14T08:00:52Z,h2h,Brisbane Lions,2.4,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tab,TAB,2026-03-14T08:00:52Z,h2h,Sydney Swans,1.58,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tab,TAB,2026-03-14T08:00:52Z,spreads,Brisbane Lions,1.9,12.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tab,TAB,2026-03-14T08:00:52Z,spreads,Sydney Swans,1.9,-12.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tab,TAB,2026-03-14T08:00:52Z,totals,Over,1.9,188.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,tab,TAB,2026-03-14T08:00:52Z,totals,Under,1.9,188.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,dabble_au,Dabble AU,2026-03-14T08:01:19Z,h2h,Brisbane Lions,2.8,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,dabble_au,Dabble AU,2026-03-14T08:01:19Z,h2h,Sydney Swans,1.45,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,dabble_au,Dabble AU,2026-03-14T08:01:19Z,spreads,Brisbane Lions,1.9,16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,dabble_au,Dabble AU,2026-03-14T08:01:19Z,spreads,Sydney Swans,1.9,-16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,pointsbetau,PointsBet (AU),2026-03-14T08:01:06Z,h2h,Brisbane Lions,2.9,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,pointsbetau,PointsBet (AU),2026-03-14T08:01:06Z,h2h,Sydney Swans,1.38,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,pointsbetau,PointsBet (AU),2026-03-14T08:01:06Z,spreads,Brisbane Lions,1.88,16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,pointsbetau,PointsBet (AU),2026-03-14T08:01:06Z,spreads,Sydney Swans,1.88,-16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,pointsbetau,PointsBet (AU),2026-03-14T08:01:06Z,totals,Over,1.88,190.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,pointsbetau,PointsBet (AU),2026-03-14T08:01:06Z,totals,Under,1.88,190.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,playup,PlayUp,2026-03-14T08:01:19Z,h2h,Brisbane Lions,2.9,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,playup,PlayUp,2026-03-14T08:01:19Z,h2h,Sydney Swans,1.43,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,playup,PlayUp,2026-03-14T08:01:19Z,spreads,Brisbane Lions,1.92,16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,playup,PlayUp,2026-03-14T08:01:19Z,spreads,Sydney Swans,1.92,-16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,playup,PlayUp,2026-03-14T08:01:19Z,totals,Over,1.88,192.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,playup,PlayUp,2026-03-14T08:01:19Z,totals,Under,1.88,192.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betr_au,Betr,2026-03-14T08:00:56Z,h2h,Brisbane Lions,2.65,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betr_au,Betr,2026-03-14T08:00:56Z,h2h,Sydney Swans,1.48,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betr_au,Betr,2026-03-14T08:00:56Z,spreads,Brisbane Lions,1.9,16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betr_au,Betr,2026-03-14T08:00:56Z,spreads,Sydney Swans,1.9,-16.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,sportsbet,SportsBet,2026-03-14T08:01:35Z,h2h,Brisbane Lions,2.67,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,sportsbet,SportsBet,2026-03-14T08:01:35Z,h2h,Sydney Swans,1.44,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,sportsbet,SportsBet,2026-03-14T08:01:35Z,spreads,Brisbane Lions,1.9,14.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,sportsbet,SportsBet,2026-03-14T08:01:35Z,spreads,Sydney Swans,1.9,-14.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,sportsbet,SportsBet,2026-03-14T08:01:35Z,totals,Over,1.89,191.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,sportsbet,SportsBet,2026-03-14T08:01:35Z,totals,Under,1.91,191.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betright,Bet Right,2026-03-14T08:01:26Z,h2h,Brisbane Lions,2.35,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betright,Bet Right,2026-03-14T08:01:26Z,h2h,Sydney Swans,1.62,,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betright,Bet Right,2026-03-14T08:01:26Z,spreads,Brisbane Lions,1.9,14.5,20260314_080142
+16db1a4095579bcef5e451eb26ecc339,Sydney Swans,Brisbane Lions,2026-03-14T08:10:00Z,betright,Bet Right,2026-03-14T08:01:26Z,spreads,Sydney Swans,1.9,-14.5,20260314_080142
