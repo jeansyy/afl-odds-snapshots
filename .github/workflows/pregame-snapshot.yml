@@ -1,0 +1,40 @@
+name: AFL pre-game snapshot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pre-game snapshot (time-windowed)
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/snapshot_afl_odds.py --out outputs/afl_snapshots --pregame-only
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add outputs/afl_snapshots
+          if git diff --staged --quiet; then
+            echo "No snapshot window matched - skipping commit"
+          else
+            git commit -m "afl pre-game snapshot"
+            git push
+          fi
