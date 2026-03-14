@@ -1,10 +1,8 @@
-name: AFL odds snapshot
+name: AFL daily baseline snapshot
 
 on:
   schedule:
-    # Every 30 min, 11am-8:30pm AEDT (= 00:00-09:30 UTC)
-    - cron: "0,30 0-8 * * *"
-    - cron: "0,30 9 * * *"
+    - cron: "0 22 * * *"  # 9am AEDT (UTC+11) = 10pm UTC previous day
   workflow_dispatch:
 
 jobs:
@@ -12,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,15 +22,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Snapshot AFL odds + player props
+      - name: Daily baseline snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python scripts/snapshot_afl_odds.py --out outputs/afl_snapshots
+        run: python scripts/snapshot_afl_odds.py --out outputs/afl_snapshots --label daily
 
-      - name: Commit and push snapshots
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
-          git add outputs/afl_snapshots || true
-          git commit -m "afl odds snapshot" || true
-          git push
+          git add outputs/afl_snapshots
+          if git diff --staged --quiet; then
+            echo "No new snapshots to commit"
+          else
+            git commit -m "afl daily baseline snapshot"
+            git push
+          fi
