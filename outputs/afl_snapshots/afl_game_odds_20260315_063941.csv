@@ -1,0 +1,51 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,dabble_au,Dabble AU,2026-03-15T06:39:08Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,dabble_au,Dabble AU,2026-03-15T06:39:08Z,h2h,West Coast Eagles,19.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,dabble_au,Dabble AU,2026-03-15T06:39:08Z,spreads,Gold Coast Suns,1.9,-68.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,dabble_au,Dabble AU,2026-03-15T06:39:08Z,spreads,West Coast Eagles,1.9,68.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betfair_ex_au,Betfair,2026-03-15T06:39:25Z,h2h,Gold Coast Suns,1.03,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betfair_ex_au,Betfair,2026-03-15T06:39:25Z,h2h,West Coast Eagles,26.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betfair_ex_au,Betfair,2026-03-15T06:39:25Z,h2h_lay,Gold Coast Suns,1.04,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betfair_ex_au,Betfair,2026-03-15T06:39:25Z,h2h_lay,West Coast Eagles,27.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tab,TAB,2026-03-15T06:39:01Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tab,TAB,2026-03-15T06:39:01Z,h2h,West Coast Eagles,19.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tab,TAB,2026-03-15T06:39:01Z,spreads,Gold Coast Suns,1.9,-67.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tab,TAB,2026-03-15T06:39:01Z,spreads,West Coast Eagles,1.9,67.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tab,TAB,2026-03-15T06:39:01Z,totals,Over,1.9,189.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tab,TAB,2026-03-15T06:39:01Z,totals,Under,1.9,189.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tabtouch,TABtouch,2026-03-15T06:39:15Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tabtouch,TABtouch,2026-03-15T06:39:15Z,h2h,West Coast Eagles,17.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tabtouch,TABtouch,2026-03-15T06:39:15Z,spreads,Gold Coast Suns,1.89,-69.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tabtouch,TABtouch,2026-03-15T06:39:15Z,spreads,West Coast Eagles,1.89,69.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tabtouch,TABtouch,2026-03-15T06:39:15Z,totals,Over,1.89,189.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,tabtouch,TABtouch,2026-03-15T06:39:15Z,totals,Under,1.89,189.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,neds,Neds,2026-03-15T06:38:56Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,neds,Neds,2026-03-15T06:38:56Z,h2h,West Coast Eagles,17.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,ladbrokes_au,Ladbrokes,2026-03-15T06:39:09Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,ladbrokes_au,Ladbrokes,2026-03-15T06:39:09Z,h2h,West Coast Eagles,17.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,pointsbetau,PointsBet (AU),2026-03-15T06:39:08Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,pointsbetau,PointsBet (AU),2026-03-15T06:39:08Z,h2h,West Coast Eagles,21.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,pointsbetau,PointsBet (AU),2026-03-15T06:39:08Z,spreads,Gold Coast Suns,1.9,-68.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,pointsbetau,PointsBet (AU),2026-03-15T06:39:08Z,spreads,West Coast Eagles,1.9,68.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,pointsbetau,PointsBet (AU),2026-03-15T06:39:08Z,totals,Over,1.9,190.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,pointsbetau,PointsBet (AU),2026-03-15T06:39:08Z,totals,Under,1.9,190.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betr_au,Betr,2026-03-15T06:39:07Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betr_au,Betr,2026-03-15T06:39:07Z,h2h,West Coast Eagles,17.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betr_au,Betr,2026-03-15T06:39:07Z,spreads,Gold Coast Suns,1.95,-67.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betr_au,Betr,2026-03-15T06:39:07Z,spreads,West Coast Eagles,1.85,67.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,playup,PlayUp,2026-03-15T06:39:22Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,playup,PlayUp,2026-03-15T06:39:22Z,h2h,West Coast Eagles,19.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,playup,PlayUp,2026-03-15T06:39:22Z,spreads,Gold Coast Suns,1.92,-67.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,playup,PlayUp,2026-03-15T06:39:22Z,spreads,West Coast Eagles,1.92,67.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,playup,PlayUp,2026-03-15T06:39:22Z,totals,Over,1.88,189.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,playup,PlayUp,2026-03-15T06:39:22Z,totals,Under,1.88,189.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,sportsbet,SportsBet,2026-03-15T06:39:07Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,sportsbet,SportsBet,2026-03-15T06:39:07Z,h2h,West Coast Eagles,17.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,sportsbet,SportsBet,2026-03-15T06:39:07Z,spreads,Gold Coast Suns,1.9,-69.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,sportsbet,SportsBet,2026-03-15T06:39:07Z,spreads,West Coast Eagles,1.9,69.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,sportsbet,SportsBet,2026-03-15T06:39:07Z,totals,Over,1.91,190.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,sportsbet,SportsBet,2026-03-15T06:39:07Z,totals,Under,1.89,190.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betright,Bet Right,2026-03-15T06:39:01Z,h2h,Gold Coast Suns,1.01,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betright,Bet Right,2026-03-15T06:39:01Z,h2h,West Coast Eagles,16.0,,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betright,Bet Right,2026-03-15T06:39:01Z,spreads,Gold Coast Suns,2.0,-68.5,20260315_063941
+2216df0f98e5c1f4773db37932f68be2,Gold Coast Suns,West Coast Eagles,2026-03-15T07:10:00Z,betright,Bet Right,2026-03-15T06:39:01Z,spreads,West Coast Eagles,1.8,68.5,20260315_063941
