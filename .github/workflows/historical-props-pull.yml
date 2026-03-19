@@ -1,0 +1,34 @@
+name: Historical AFL Player Props Pull
+
+on:
+  workflow_dispatch:  # manual trigger from Actions tab
+
+jobs:
+  pull-historical-props:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run historical props pull
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/historical_player_props_pull.py
+
+      - name: Commit output CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs/afl_snapshots/historical_player_props.csv
+          git diff --cached --quiet || git commit -m "Add historical player props CSV [skip ci]"
+          git push
