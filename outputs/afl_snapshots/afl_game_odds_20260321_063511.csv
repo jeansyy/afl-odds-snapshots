@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,unibet,Unibet,2026-03-21T06:35:03Z,h2h,Fremantle Dockers,1.32,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,unibet,Unibet,2026-03-21T06:35:03Z,h2h,Melbourne Demons,3.3,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tabtouch,TABtouch,2026-03-21T06:34:46Z,h2h,Fremantle Dockers,1.33,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tabtouch,TABtouch,2026-03-21T06:34:46Z,h2h,Melbourne Demons,3.3,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tabtouch,TABtouch,2026-03-21T06:34:46Z,spreads,Fremantle Dockers,1.89,-20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tabtouch,TABtouch,2026-03-21T06:34:46Z,spreads,Melbourne Demons,1.89,20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tabtouch,TABtouch,2026-03-21T06:34:46Z,totals,Over,1.89,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tabtouch,TABtouch,2026-03-21T06:34:46Z,totals,Under,1.89,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,ladbrokes_au,Ladbrokes,2026-03-21T06:34:46Z,h2h,Fremantle Dockers,1.36,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,ladbrokes_au,Ladbrokes,2026-03-21T06:34:46Z,h2h,Melbourne Demons,3.15,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betfair_ex_au,Betfair,2026-03-21T06:34:49Z,h2h,Fremantle Dockers,1.38,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betfair_ex_au,Betfair,2026-03-21T06:34:49Z,h2h,Melbourne Demons,3.55,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betfair_ex_au,Betfair,2026-03-21T06:34:49Z,h2h_lay,Fremantle Dockers,1.39,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betfair_ex_au,Betfair,2026-03-21T06:34:49Z,h2h_lay,Melbourne Demons,3.65,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,neds,Neds,2026-03-21T06:34:46Z,h2h,Fremantle Dockers,1.36,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,neds,Neds,2026-03-21T06:34:46Z,h2h,Melbourne Demons,3.15,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tab,TAB,2026-03-21T06:35:04Z,h2h,Fremantle Dockers,1.32,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tab,TAB,2026-03-21T06:35:04Z,h2h,Melbourne Demons,3.4,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tab,TAB,2026-03-21T06:35:04Z,spreads,Fremantle Dockers,1.9,-20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tab,TAB,2026-03-21T06:35:04Z,spreads,Melbourne Demons,1.9,20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tab,TAB,2026-03-21T06:35:04Z,totals,Over,1.9,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,tab,TAB,2026-03-21T06:35:04Z,totals,Under,1.9,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betr_au,Betr,2026-03-21T06:34:29Z,h2h,Fremantle Dockers,1.32,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betr_au,Betr,2026-03-21T06:34:29Z,h2h,Melbourne Demons,3.4,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betr_au,Betr,2026-03-21T06:34:29Z,spreads,Fremantle Dockers,1.9,-20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betr_au,Betr,2026-03-21T06:34:29Z,spreads,Melbourne Demons,1.9,20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-21T06:34:47Z,h2h,Fremantle Dockers,1.31,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-21T06:34:47Z,h2h,Melbourne Demons,3.3,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-21T06:34:47Z,spreads,Fremantle Dockers,1.88,-19.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-21T06:34:47Z,spreads,Melbourne Demons,1.88,19.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-21T06:34:47Z,totals,Over,1.88,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,pointsbetau,PointsBet (AU),2026-03-21T06:34:47Z,totals,Under,1.88,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,playup,PlayUp,2026-03-21T06:34:45Z,h2h,Fremantle Dockers,1.32,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,playup,PlayUp,2026-03-21T06:34:45Z,h2h,Melbourne Demons,3.4,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,playup,PlayUp,2026-03-21T06:34:45Z,spreads,Fremantle Dockers,1.9,-20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,playup,PlayUp,2026-03-21T06:34:45Z,spreads,Melbourne Demons,1.9,20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,playup,PlayUp,2026-03-21T06:34:45Z,totals,Over,1.88,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,playup,PlayUp,2026-03-21T06:34:45Z,totals,Under,1.88,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,sportsbet,SportsBet,2026-03-21T06:34:46Z,h2h,Fremantle Dockers,1.33,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,sportsbet,SportsBet,2026-03-21T06:34:46Z,h2h,Melbourne Demons,3.34,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,sportsbet,SportsBet,2026-03-21T06:34:46Z,spreads,Fremantle Dockers,1.9,-21.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,sportsbet,SportsBet,2026-03-21T06:34:46Z,spreads,Melbourne Demons,1.9,21.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,sportsbet,SportsBet,2026-03-21T06:34:46Z,totals,Over,1.9,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,sportsbet,SportsBet,2026-03-21T06:34:46Z,totals,Under,1.9,192.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,dabble_au,Dabble AU,2026-03-21T06:34:46Z,h2h,Fremantle Dockers,1.37,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,dabble_au,Dabble AU,2026-03-21T06:34:46Z,h2h,Melbourne Demons,3.1,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,dabble_au,Dabble AU,2026-03-21T06:34:46Z,spreads,Fremantle Dockers,1.9,-19.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,dabble_au,Dabble AU,2026-03-21T06:34:46Z,spreads,Melbourne Demons,1.9,19.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betright,Bet Right,2026-03-21T06:34:46Z,h2h,Fremantle Dockers,1.32,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betright,Bet Right,2026-03-21T06:34:46Z,h2h,Melbourne Demons,3.4,,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betright,Bet Right,2026-03-21T06:34:46Z,spreads,Fremantle Dockers,1.9,-20.5,20260321_063511
+dc5e667bacfa9bf8f1dddd58f21ebec5,Fremantle Dockers,Melbourne Demons,2026-03-21T08:35:00Z,betright,Bet Right,2026-03-21T06:34:46Z,spreads,Melbourne Demons,1.9,20.5,20260321_063511
