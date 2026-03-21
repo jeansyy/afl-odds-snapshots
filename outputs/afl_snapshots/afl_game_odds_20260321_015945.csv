@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,sportsbet,SportsBet,2026-03-21T01:58:56Z,h2h,Gold Coast Suns,1.18,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,sportsbet,SportsBet,2026-03-21T01:58:56Z,h2h,Richmond Tigers,4.7,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,sportsbet,SportsBet,2026-03-21T01:58:56Z,spreads,Gold Coast Suns,1.9,-32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,sportsbet,SportsBet,2026-03-21T01:58:56Z,spreads,Richmond Tigers,1.9,32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,sportsbet,SportsBet,2026-03-21T01:58:56Z,totals,Over,1.92,189.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,sportsbet,SportsBet,2026-03-21T01:58:56Z,totals,Under,1.88,189.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betfair_ex_au,Betfair,2026-03-21T01:59:15Z,h2h,Gold Coast Suns,1.23,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betfair_ex_au,Betfair,2026-03-21T01:59:15Z,h2h,Richmond Tigers,5.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betfair_ex_au,Betfair,2026-03-21T01:59:15Z,h2h_lay,Gold Coast Suns,1.24,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betfair_ex_au,Betfair,2026-03-21T01:59:15Z,h2h_lay,Richmond Tigers,5.3,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tab,TAB,2026-03-21T01:59:33Z,h2h,Gold Coast Suns,1.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tab,TAB,2026-03-21T01:59:33Z,h2h,Richmond Tigers,4.5,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tab,TAB,2026-03-21T01:59:33Z,spreads,Gold Coast Suns,1.9,-31.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tab,TAB,2026-03-21T01:59:33Z,spreads,Richmond Tigers,1.9,31.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tab,TAB,2026-03-21T01:59:33Z,totals,Over,1.9,187.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tab,TAB,2026-03-21T01:59:33Z,totals,Under,1.9,187.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betr_au,Betr,2026-03-21T01:59:12Z,h2h,Gold Coast Suns,1.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betr_au,Betr,2026-03-21T01:59:12Z,h2h,Richmond Tigers,4.6,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betr_au,Betr,2026-03-21T01:59:12Z,spreads,Gold Coast Suns,1.9,-32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betr_au,Betr,2026-03-21T01:59:12Z,spreads,Richmond Tigers,1.9,32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T01:59:31Z,h2h,Gold Coast Suns,1.18,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T01:59:31Z,h2h,Richmond Tigers,4.6,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T01:59:31Z,spreads,Gold Coast Suns,1.88,-31.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T01:59:31Z,spreads,Richmond Tigers,1.92,31.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T01:59:31Z,totals,Over,1.9,187.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T01:59:31Z,totals,Under,1.9,187.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,playup,PlayUp,2026-03-21T01:59:30Z,h2h,Gold Coast Suns,1.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,playup,PlayUp,2026-03-21T01:59:30Z,h2h,Richmond Tigers,4.8,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,playup,PlayUp,2026-03-21T01:59:30Z,spreads,Gold Coast Suns,1.92,-31.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,playup,PlayUp,2026-03-21T01:59:30Z,spreads,Richmond Tigers,1.92,31.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,playup,PlayUp,2026-03-21T01:59:30Z,totals,Over,1.88,187.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,playup,PlayUp,2026-03-21T01:59:30Z,totals,Under,1.88,187.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,neds,Neds,2026-03-21T01:58:55Z,h2h,Gold Coast Suns,1.15,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,neds,Neds,2026-03-21T01:58:55Z,h2h,Richmond Tigers,5.4,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,ladbrokes_au,Ladbrokes,2026-03-21T01:59:30Z,h2h,Gold Coast Suns,1.15,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,ladbrokes_au,Ladbrokes,2026-03-21T01:59:30Z,h2h,Richmond Tigers,5.4,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,dabble_au,Dabble AU,2026-03-21T01:58:55Z,h2h,Gold Coast Suns,1.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,dabble_au,Dabble AU,2026-03-21T01:58:55Z,h2h,Richmond Tigers,4.4,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,dabble_au,Dabble AU,2026-03-21T01:58:55Z,spreads,Gold Coast Suns,1.9,-32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,dabble_au,Dabble AU,2026-03-21T01:58:55Z,spreads,Richmond Tigers,1.9,32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betright,Bet Right,2026-03-21T01:59:30Z,h2h,Gold Coast Suns,1.23,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betright,Bet Right,2026-03-21T01:59:30Z,h2h,Richmond Tigers,4.25,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betright,Bet Right,2026-03-21T01:59:30Z,spreads,Gold Coast Suns,2.0,-32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,betright,Bet Right,2026-03-21T01:59:30Z,spreads,Richmond Tigers,1.8,32.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,unibet,Unibet,2026-03-21T01:59:12Z,h2h,Gold Coast Suns,1.15,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,unibet,Unibet,2026-03-21T01:59:12Z,h2h,Richmond Tigers,5.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tabtouch,TABtouch,2026-03-21T01:59:30Z,h2h,Gold Coast Suns,1.16,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tabtouch,TABtouch,2026-03-21T01:59:30Z,h2h,Richmond Tigers,5.2,,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tabtouch,TABtouch,2026-03-21T01:59:30Z,spreads,Gold Coast Suns,1.89,-33.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tabtouch,TABtouch,2026-03-21T01:59:30Z,spreads,Richmond Tigers,1.89,33.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tabtouch,TABtouch,2026-03-21T01:59:30Z,totals,Over,1.89,189.5,20260321_015945
+c58c4b2e48e62502c3084fa5bd3aa3d7,Richmond Tigers,Gold Coast Suns,2026-03-21T02:15:27Z,tabtouch,TABtouch,2026-03-21T01:59:30Z,totals,Under,1.89,189.5,20260321_015945
