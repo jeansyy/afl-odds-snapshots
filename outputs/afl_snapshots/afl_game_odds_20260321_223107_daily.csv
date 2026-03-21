@@ -1,0 +1,105 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,h2h,Essendon Bombers,3.06,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,h2h,Port Adelaide Power,1.38,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,spreads,Essendon Bombers,1.89,18.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,spreads,Port Adelaide Power,1.91,-18.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,totals,Over,1.9,184.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,totals,Under,1.9,184.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h,Essendon Bombers,3.35,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h,Port Adelaide Power,1.41,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h_lay,Essendon Bombers,3.4,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h_lay,Port Adelaide Power,1.42,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tab,TAB,2026-03-21T22:31:00Z,h2h,Essendon Bombers,3.1,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tab,TAB,2026-03-21T22:31:00Z,h2h,Port Adelaide Power,1.38,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tab,TAB,2026-03-21T22:31:00Z,spreads,Essendon Bombers,1.9,17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tab,TAB,2026-03-21T22:31:00Z,spreads,Port Adelaide Power,1.9,-17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tab,TAB,2026-03-21T22:31:00Z,totals,Over,1.9,185.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tab,TAB,2026-03-21T22:31:00Z,totals,Under,1.9,185.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betr_au,Betr,2026-03-21T22:30:05Z,h2h,Essendon Bombers,3.1,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betr_au,Betr,2026-03-21T22:30:05Z,h2h,Port Adelaide Power,1.37,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betr_au,Betr,2026-03-21T22:30:05Z,spreads,Essendon Bombers,1.9,17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betr_au,Betr,2026-03-21T22:30:05Z,spreads,Port Adelaide Power,1.9,-17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,h2h,Essendon Bombers,3.0,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,h2h,Port Adelaide Power,1.36,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,spreads,Essendon Bombers,1.85,18.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,spreads,Port Adelaide Power,1.9,-18.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,totals,Over,1.9,184.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,totals,Under,1.85,184.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,playup,PlayUp,2026-03-21T22:30:39Z,h2h,Essendon Bombers,3.05,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,playup,PlayUp,2026-03-21T22:30:39Z,h2h,Port Adelaide Power,1.38,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,playup,PlayUp,2026-03-21T22:30:39Z,spreads,Essendon Bombers,1.88,16.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,playup,PlayUp,2026-03-21T22:30:39Z,spreads,Port Adelaide Power,1.88,-16.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,playup,PlayUp,2026-03-21T22:30:39Z,totals,Over,1.88,185.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,playup,PlayUp,2026-03-21T22:30:39Z,totals,Under,1.88,185.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,neds,Neds,2026-03-21T22:30:39Z,h2h,Essendon Bombers,2.95,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,neds,Neds,2026-03-21T22:30:39Z,h2h,Port Adelaide Power,1.4,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,ladbrokes_au,Ladbrokes,2026-03-21T22:30:04Z,h2h,Essendon Bombers,2.95,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,ladbrokes_au,Ladbrokes,2026-03-21T22:30:04Z,h2h,Port Adelaide Power,1.4,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,h2h,Essendon Bombers,3.1,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,h2h,Port Adelaide Power,1.37,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,spreads,Essendon Bombers,1.9,17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,spreads,Port Adelaide Power,1.9,-17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betright,Bet Right,2026-03-21T22:30:58Z,h2h,Essendon Bombers,3.15,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betright,Bet Right,2026-03-21T22:30:58Z,h2h,Port Adelaide Power,1.31,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betright,Bet Right,2026-03-21T22:30:58Z,spreads,Essendon Bombers,1.9,18.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,betright,Bet Right,2026-03-21T22:30:58Z,spreads,Port Adelaide Power,1.9,-18.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,unibet,Unibet,2026-03-21T22:30:22Z,h2h,Essendon Bombers,3.0,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,unibet,Unibet,2026-03-21T22:30:22Z,h2h,Port Adelaide Power,1.37,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,h2h,Essendon Bombers,3.05,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,h2h,Port Adelaide Power,1.38,,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,spreads,Essendon Bombers,1.89,17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,spreads,Port Adelaide Power,1.89,-17.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,totals,Over,1.89,185.5,20260321_223107_daily
+630c33600eab87d3f4f99da57c72de93,Port Adelaide Power,Essendon Bombers,2026-03-22T04:15:27Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,totals,Under,1.89,185.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,h2h,North Melbourne Kangaroos,1.47,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,h2h,West Coast Eagles,2.71,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,spreads,North Melbourne Kangaroos,1.9,-14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,spreads,West Coast Eagles,1.9,14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,totals,Over,1.91,183.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,sportsbet,SportsBet,2026-03-21T22:30:42Z,totals,Under,1.89,183.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h,North Melbourne Kangaroos,1.56,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h,West Coast Eagles,2.76,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h_lay,North Melbourne Kangaroos,1.57,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betfair_ex_au,Betfair,2026-03-21T22:30:43Z,h2h_lay,West Coast Eagles,2.8,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tab,TAB,2026-03-21T22:31:00Z,h2h,North Melbourne Kangaroos,1.45,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tab,TAB,2026-03-21T22:31:00Z,h2h,West Coast Eagles,2.75,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tab,TAB,2026-03-21T22:31:00Z,spreads,North Melbourne Kangaroos,1.9,-13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tab,TAB,2026-03-21T22:31:00Z,spreads,West Coast Eagles,1.9,13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tab,TAB,2026-03-21T22:31:00Z,totals,Over,1.85,182.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tab,TAB,2026-03-21T22:31:00Z,totals,Under,1.95,182.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betr_au,Betr,2026-03-21T22:30:05Z,h2h,North Melbourne Kangaroos,1.48,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betr_au,Betr,2026-03-21T22:30:05Z,h2h,West Coast Eagles,2.65,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betr_au,Betr,2026-03-21T22:30:05Z,spreads,North Melbourne Kangaroos,1.9,-13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betr_au,Betr,2026-03-21T22:30:05Z,spreads,West Coast Eagles,1.9,13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,h2h,North Melbourne Kangaroos,1.44,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,h2h,West Coast Eagles,2.75,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,spreads,North Melbourne Kangaroos,1.88,-14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,spreads,West Coast Eagles,1.88,14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,totals,Over,1.9,183.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,pointsbetau,PointsBet (AU),2026-03-21T22:30:06Z,totals,Under,1.85,183.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,playup,PlayUp,2026-03-21T22:30:39Z,h2h,North Melbourne Kangaroos,1.45,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,playup,PlayUp,2026-03-21T22:30:39Z,h2h,West Coast Eagles,2.75,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,playup,PlayUp,2026-03-21T22:30:39Z,spreads,North Melbourne Kangaroos,1.88,-14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,playup,PlayUp,2026-03-21T22:30:39Z,spreads,West Coast Eagles,1.88,14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,playup,PlayUp,2026-03-21T22:30:39Z,totals,Over,1.88,183.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,playup,PlayUp,2026-03-21T22:30:39Z,totals,Under,1.88,183.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,neds,Neds,2026-03-21T22:30:39Z,h2h,North Melbourne Kangaroos,1.5,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,neds,Neds,2026-03-21T22:30:39Z,h2h,West Coast Eagles,2.6,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,ladbrokes_au,Ladbrokes,2026-03-21T22:30:04Z,h2h,North Melbourne Kangaroos,1.5,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,ladbrokes_au,Ladbrokes,2026-03-21T22:30:04Z,h2h,West Coast Eagles,2.6,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,h2h,North Melbourne Kangaroos,1.46,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,h2h,West Coast Eagles,2.7,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,spreads,North Melbourne Kangaroos,1.88,-14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,dabble_au,Dabble AU,2026-03-21T22:30:04Z,spreads,West Coast Eagles,1.92,14.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betright,Bet Right,2026-03-21T22:30:58Z,h2h,North Melbourne Kangaroos,1.55,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betright,Bet Right,2026-03-21T22:30:58Z,h2h,West Coast Eagles,2.45,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betright,Bet Right,2026-03-21T22:30:58Z,spreads,North Melbourne Kangaroos,1.86,-13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,betright,Bet Right,2026-03-21T22:30:58Z,spreads,West Coast Eagles,1.94,13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,unibet,Unibet,2026-03-21T22:30:22Z,h2h,North Melbourne Kangaroos,1.45,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,unibet,Unibet,2026-03-21T22:30:22Z,h2h,West Coast Eagles,2.7,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,h2h,North Melbourne Kangaroos,1.45,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,h2h,West Coast Eagles,2.7,,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,spreads,North Melbourne Kangaroos,1.89,-13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,spreads,West Coast Eagles,1.89,13.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,totals,Over,1.89,182.5,20260321_223107_daily
+18f96d598f94ffc4005ad945f801dc52,West Coast Eagles,North Melbourne Kangaroos,2026-03-22T07:10:54Z,tabtouch,TABtouch,2026-03-21T22:30:05Z,totals,Under,1.89,182.5,20260321_223107_daily
