@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,unibet,Unibet,2026-03-21T05:11:28Z,h2h,Greater Western Sydney Giants,1.55,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,unibet,Unibet,2026-03-21T05:11:28Z,h2h,St Kilda Saints,2.38,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betfair_ex_au,Betfair,2026-03-21T05:11:32Z,h2h,Greater Western Sydney Giants,1.65,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betfair_ex_au,Betfair,2026-03-21T05:11:32Z,h2h,St Kilda Saints,2.5,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betfair_ex_au,Betfair,2026-03-21T05:11:32Z,h2h_lay,Greater Western Sydney Giants,1.66,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betfair_ex_au,Betfair,2026-03-21T05:11:32Z,h2h_lay,St Kilda Saints,2.54,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,ladbrokes_au,Ladbrokes,2026-03-21T05:11:11Z,h2h,Greater Western Sydney Giants,1.57,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,ladbrokes_au,Ladbrokes,2026-03-21T05:11:11Z,h2h,St Kilda Saints,2.4,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tabtouch,TABtouch,2026-03-21T05:11:10Z,h2h,Greater Western Sydney Giants,1.56,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tabtouch,TABtouch,2026-03-21T05:11:10Z,h2h,St Kilda Saints,2.4,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tabtouch,TABtouch,2026-03-21T05:11:10Z,spreads,Greater Western Sydney Giants,1.89,-9.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tabtouch,TABtouch,2026-03-21T05:11:10Z,spreads,St Kilda Saints,1.89,9.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tabtouch,TABtouch,2026-03-21T05:11:10Z,totals,Over,1.89,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tabtouch,TABtouch,2026-03-21T05:11:10Z,totals,Under,1.89,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,neds,Neds,2026-03-21T05:10:18Z,h2h,Greater Western Sydney Giants,1.57,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,neds,Neds,2026-03-21T05:10:18Z,h2h,St Kilda Saints,2.4,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tab,TAB,2026-03-21T05:10:20Z,h2h,Greater Western Sydney Giants,1.6,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tab,TAB,2026-03-21T05:10:20Z,h2h,St Kilda Saints,2.35,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tab,TAB,2026-03-21T05:10:20Z,spreads,Greater Western Sydney Giants,1.9,-9.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tab,TAB,2026-03-21T05:10:20Z,spreads,St Kilda Saints,1.9,9.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tab,TAB,2026-03-21T05:10:20Z,totals,Over,1.9,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,tab,TAB,2026-03-21T05:10:20Z,totals,Under,1.9,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betr_au,Betr,2026-03-21T05:11:27Z,h2h,Greater Western Sydney Giants,1.6,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betr_au,Betr,2026-03-21T05:11:27Z,h2h,St Kilda Saints,2.35,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betr_au,Betr,2026-03-21T05:11:27Z,spreads,Greater Western Sydney Giants,1.95,-8.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betr_au,Betr,2026-03-21T05:11:27Z,spreads,St Kilda Saints,1.85,8.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,pointsbetau,PointsBet (AU),2026-03-21T05:11:12Z,h2h,Greater Western Sydney Giants,1.57,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,pointsbetau,PointsBet (AU),2026-03-21T05:11:12Z,h2h,St Kilda Saints,2.35,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,pointsbetau,PointsBet (AU),2026-03-21T05:11:12Z,spreads,Greater Western Sydney Giants,1.9,-10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,pointsbetau,PointsBet (AU),2026-03-21T05:11:12Z,spreads,St Kilda Saints,1.9,10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,pointsbetau,PointsBet (AU),2026-03-21T05:11:12Z,totals,Over,1.9,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,pointsbetau,PointsBet (AU),2026-03-21T05:11:12Z,totals,Under,1.9,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,playup,PlayUp,2026-03-21T05:11:11Z,h2h,Greater Western Sydney Giants,1.56,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,playup,PlayUp,2026-03-21T05:11:11Z,h2h,St Kilda Saints,2.5,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,playup,PlayUp,2026-03-21T05:11:11Z,spreads,Greater Western Sydney Giants,1.95,-10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,playup,PlayUp,2026-03-21T05:11:11Z,spreads,St Kilda Saints,1.9,10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,playup,PlayUp,2026-03-21T05:11:11Z,totals,Over,1.88,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,playup,PlayUp,2026-03-21T05:11:11Z,totals,Under,1.88,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,sportsbet,SportsBet,2026-03-21T05:11:10Z,h2h,Greater Western Sydney Giants,1.56,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,sportsbet,SportsBet,2026-03-21T05:11:10Z,h2h,St Kilda Saints,2.39,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,sportsbet,SportsBet,2026-03-21T05:11:10Z,spreads,Greater Western Sydney Giants,1.91,-10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,sportsbet,SportsBet,2026-03-21T05:11:10Z,spreads,St Kilda Saints,1.89,10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,sportsbet,SportsBet,2026-03-21T05:11:10Z,totals,Over,1.9,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,sportsbet,SportsBet,2026-03-21T05:11:10Z,totals,Under,1.9,184.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,dabble_au,Dabble AU,2026-03-21T05:11:11Z,h2h,Greater Western Sydney Giants,1.55,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,dabble_au,Dabble AU,2026-03-21T05:11:11Z,h2h,St Kilda Saints,2.45,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,dabble_au,Dabble AU,2026-03-21T05:11:11Z,spreads,Greater Western Sydney Giants,1.9,-10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,dabble_au,Dabble AU,2026-03-21T05:11:11Z,spreads,St Kilda Saints,1.9,10.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betright,Bet Right,2026-03-21T05:11:10Z,h2h,Greater Western Sydney Giants,1.57,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betright,Bet Right,2026-03-21T05:11:10Z,h2h,St Kilda Saints,2.4,,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betright,Bet Right,2026-03-21T05:11:10Z,spreads,Greater Western Sydney Giants,1.95,-9.5,20260321_051157
+e96896049a3232dfb12bf75db6bc65ac,Greater Western Sydney Giants,St Kilda Saints,2026-03-21T05:16:00Z,betright,Bet Right,2026-03-21T05:11:10Z,spreads,St Kilda Saints,1.85,9.5,20260321_051157
