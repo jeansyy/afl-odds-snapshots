@@ -1,0 +1,311 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Collingwood Magpies,1.42,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Greater Western Sydney Giants,2.7,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Collingwood Magpies,1.46,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Greater Western Sydney Giants,3.15,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Collingwood Magpies,1.47,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Greater Western Sydney Giants,3.2,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Collingwood Magpies,1.4,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Greater Western Sydney Giants,3.0,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Collingwood Magpies,1.9,-16.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Greater Western Sydney Giants,1.9,16.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-26T22:34:20Z,totals,Over,1.9,174.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-26T22:34:20Z,totals,Under,1.9,174.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Collingwood Magpies,1.44,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Greater Western Sydney Giants,2.8,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Collingwood Magpies,1.42,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Greater Western Sydney Giants,2.75,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Collingwood Magpies,1.89,-15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Greater Western Sydney Giants,1.89,15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Over,1.89,175.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Under,1.89,175.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Collingwood Magpies,1.4,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Greater Western Sydney Giants,2.85,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Collingwood Magpies,1.88,-15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Greater Western Sydney Giants,1.88,15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Over,1.88,174.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Under,1.88,174.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Collingwood Magpies,1.4,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Greater Western Sydney Giants,2.95,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Collingwood Magpies,1.9,-15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Greater Western Sydney Giants,1.9,15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Over,1.88,175.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Under,1.88,175.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Collingwood Magpies,1.4,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Greater Western Sydney Giants,3.0,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Collingwood Magpies,1.9,-16.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Greater Western Sydney Giants,1.9,16.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Collingwood Magpies,1.44,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Greater Western Sydney Giants,2.8,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Collingwood Magpies,1.41,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Greater Western Sydney Giants,2.92,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Collingwood Magpies,1.89,-15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Greater Western Sydney Giants,1.91,15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Over,1.89,174.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Under,1.91,174.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Collingwood Magpies,1.4,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Greater Western Sydney Giants,2.95,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Collingwood Magpies,1.85,-16.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Greater Western Sydney Giants,1.95,16.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Collingwood Magpies,1.42,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Greater Western Sydney Giants,2.85,,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Collingwood Magpies,1.9,-15.5,20260326_223608_daily
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Greater Western Sydney Giants,1.9,15.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Brisbane Lions,1.57,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,St Kilda Saints,2.3,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Brisbane Lions,1.61,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,St Kilda Saints,2.58,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Brisbane Lions,1.64,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,St Kilda Saints,2.64,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Brisbane Lions,1.57,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,neds,Neds,2026-03-26T22:35:35Z,h2h,St Kilda Saints,2.45,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Brisbane Lions,1.56,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,St Kilda Saints,2.4,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Brisbane Lions,1.89,-9.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,St Kilda Saints,1.89,9.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Over,1.89,188.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Under,1.89,188.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Brisbane Lions,1.57,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,St Kilda Saints,2.45,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Brisbane Lions,1.55,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,St Kilda Saints,2.4,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Brisbane Lions,1.88,-12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,St Kilda Saints,1.88,12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Over,1.85,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Under,1.9,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Brisbane Lions,1.6,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,St Kilda Saints,2.35,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Brisbane Lions,1.9,-9.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,St Kilda Saints,1.9,9.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Over,1.88,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Under,1.88,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Brisbane Lions,1.52,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,St Kilda Saints,2.55,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Brisbane Lions,1.95,-12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,St Kilda Saints,1.85,12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Brisbane Lions,1.6,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tab,TAB,2026-03-26T22:34:20Z,h2h,St Kilda Saints,2.35,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Brisbane Lions,1.9,-9.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tab,TAB,2026-03-26T22:34:20Z,spreads,St Kilda Saints,1.9,9.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tab,TAB,2026-03-26T22:34:20Z,totals,Over,1.9,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,tab,TAB,2026-03-26T22:34:20Z,totals,Under,1.9,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Brisbane Lions,1.53,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,St Kilda Saints,2.52,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Brisbane Lions,1.9,-12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,St Kilda Saints,1.9,12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Over,1.86,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Under,1.9,187.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Brisbane Lions,1.57,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,St Kilda Saints,2.4,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Brisbane Lions,1.9,-12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,St Kilda Saints,1.9,12.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Brisbane Lions,1.55,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,St Kilda Saints,2.45,,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Brisbane Lions,1.92,-11.5,20260326_223608_daily
+66678cf64922f6dd88aa5110228c683c,St Kilda Saints,Brisbane Lions,2026-03-28T01:35:58Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,St Kilda Saints,1.88,11.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Fremantle Dockers,1.03,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Richmond Tigers,9.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Fremantle Dockers,1.02,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Richmond Tigers,16.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Fremantle Dockers,1.88,-48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Richmond Tigers,1.88,48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Over,1.88,141.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Under,1.88,141.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Fremantle Dockers,1.06,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Richmond Tigers,17.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Fremantle Dockers,1.07,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Richmond Tigers,18.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Fremantle Dockers,1.02,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Richmond Tigers,13.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Fremantle Dockers,1.9,-48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Richmond Tigers,1.9,48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-26T22:34:20Z,totals,Over,1.9,141.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-26T22:34:20Z,totals,Under,1.9,141.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Fremantle Dockers,1.04,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Richmond Tigers,11.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Fremantle Dockers,1.9,-48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Richmond Tigers,1.9,48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Fremantle Dockers,1.02,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Richmond Tigers,14.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Fremantle Dockers,1.9,-47.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Richmond Tigers,1.9,47.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Fremantle Dockers,1.03,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Richmond Tigers,11.5,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Fremantle Dockers,1.89,-48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Richmond Tigers,1.89,48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Over,1.89,142.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Under,1.89,142.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Fremantle Dockers,1.02,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Richmond Tigers,13.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Fremantle Dockers,1.89,-48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Richmond Tigers,1.9,48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Over,1.89,141.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Under,1.87,141.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Fremantle Dockers,1.04,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Richmond Tigers,10.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Fremantle Dockers,1.04,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Richmond Tigers,10.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Fremantle Dockers,1.02,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Richmond Tigers,14.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Fremantle Dockers,1.9,-48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Richmond Tigers,1.9,48.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Fremantle Dockers,1.04,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Richmond Tigers,11.0,,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Fremantle Dockers,1.9,-46.5,20260326_223608_daily
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Richmond Tigers,1.9,46.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Essendon Bombers,2.6,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,North Melbourne Kangaroos,1.5,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Essendon Bombers,1.91,12.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,North Melbourne Kangaroos,1.89,-12.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Over,1.87,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Under,1.89,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-26T22:34:20Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Essendon Bombers,1.9,13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-26T22:34:20Z,spreads,North Melbourne Kangaroos,1.9,-13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-26T22:34:20Z,totals,Over,1.9,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-26T22:34:20Z,totals,Under,1.9,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Essendon Bombers,2.92,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,North Melbourne Kangaroos,1.5,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Essendon Bombers,3.0,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,North Melbourne Kangaroos,1.52,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Essendon Bombers,1.88,12.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,North Melbourne Kangaroos,1.88,-12.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Over,1.88,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Under,1.88,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,neds,Neds,2026-03-26T22:35:35Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Essendon Bombers,1.9,13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,North Melbourne Kangaroos,1.9,-13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Over,1.88,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Under,1.88,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Essendon Bombers,2.6,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,North Melbourne Kangaroos,1.5,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Essendon Bombers,1.9,12.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,North Melbourne Kangaroos,1.9,-12.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Essendon Bombers,1.9,13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,North Melbourne Kangaroos,1.9,-13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Essendon Bombers,2.55,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,North Melbourne Kangaroos,1.47,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,North Melbourne Kangaroos,1.47,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Essendon Bombers,1.89,13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,North Melbourne Kangaroos,1.89,-13.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Over,1.88,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Under,1.92,190.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Essendon Bombers,2.65,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,North Melbourne Kangaroos,1.48,,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Essendon Bombers,1.9,14.5,20260326_223608_daily
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,North Melbourne Kangaroos,1.9,-14.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Port Adelaide Power,1.29,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,West Coast Eagles,3.63,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Port Adelaide Power,1.91,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,West Coast Eagles,1.89,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Over,1.9,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Under,1.87,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Port Adelaide Power,1.3,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,West Coast Eagles,4.0,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Port Adelaide Power,1.34,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,West Coast Eagles,4.3,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Port Adelaide Power,1.29,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-26T22:34:20Z,h2h,West Coast Eagles,3.6,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Port Adelaide Power,1.9,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-26T22:34:20Z,spreads,West Coast Eagles,1.9,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-26T22:34:20Z,totals,Over,1.9,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-26T22:34:20Z,totals,Under,1.9,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Port Adelaide Power,1.25,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,West Coast Eagles,3.6,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Port Adelaide Power,1.88,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,West Coast Eagles,1.88,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Over,1.88,190.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Under,1.88,190.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Port Adelaide Power,1.25,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,neds,Neds,2026-03-26T22:35:35Z,h2h,West Coast Eagles,4.0,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Port Adelaide Power,1.25,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,West Coast Eagles,4.0,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Port Adelaide Power,1.27,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,West Coast Eagles,3.8,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Port Adelaide Power,1.9,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,West Coast Eagles,1.9,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Over,1.85,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Under,1.92,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Port Adelaide Power,1.26,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,West Coast Eagles,3.85,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Port Adelaide Power,1.9,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,West Coast Eagles,1.9,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Port Adelaide Power,1.26,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,West Coast Eagles,3.85,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Port Adelaide Power,1.9,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,West Coast Eagles,1.9,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Port Adelaide Power,1.27,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,West Coast Eagles,3.75,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Port Adelaide Power,1.89,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,West Coast Eagles,1.89,24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Over,1.89,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Under,1.89,191.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Port Adelaide Power,1.27,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,West Coast Eagles,3.4,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Port Adelaide Power,1.3,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,West Coast Eagles,3.6,,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Port Adelaide Power,1.88,-24.5,20260326_223608_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,West Coast Eagles,1.92,24.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Carlton Blues,1.94,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,unibet,Unibet,2026-03-26T22:35:46Z,h2h,Melbourne Demons,1.82,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Carlton Blues,1.87,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-26T22:35:36Z,h2h,Melbourne Demons,1.93,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Carlton Blues,1.95,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-26T22:35:36Z,spreads,Melbourne Demons,1.85,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Over,1.88,182.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-26T22:35:36Z,totals,Under,1.88,182.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Carlton Blues,1.98,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,ladbrokes_au,Ladbrokes,2026-03-26T22:35:03Z,h2h,Melbourne Demons,1.83,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Carlton Blues,1.95,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,h2h,Melbourne Demons,1.85,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Carlton Blues,1.89,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,spreads,Melbourne Demons,1.89,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Over,1.89,181.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-26T22:35:46Z,totals,Under,1.89,181.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Carlton Blues,1.85,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-26T22:34:20Z,h2h,Melbourne Demons,1.95,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Carlton Blues,1.9,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-26T22:34:20Z,spreads,Melbourne Demons,1.9,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-26T22:34:20Z,totals,Over,1.9,182.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-26T22:34:20Z,totals,Under,1.9,182.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Carlton Blues,2.0,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h,Melbourne Demons,1.96,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Carlton Blues,2.06,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-26T22:35:38Z,h2h_lay,Melbourne Demons,2.0,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Carlton Blues,1.98,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,neds,Neds,2026-03-26T22:35:35Z,h2h,Melbourne Demons,1.83,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Carlton Blues,1.95,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-26T22:35:25Z,h2h,Melbourne Demons,1.85,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Carlton Blues,1.9,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-26T22:35:25Z,spreads,Melbourne Demons,1.9,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Carlton Blues,2.0,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,h2h,Melbourne Demons,1.84,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Carlton Blues,1.91,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,spreads,Melbourne Demons,1.89,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Over,1.86,180.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-26T22:35:59Z,totals,Under,1.9,180.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Carlton Blues,1.92,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,h2h,Melbourne Demons,1.83,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Carlton Blues,1.88,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,spreads,Melbourne Demons,1.88,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Over,1.88,182.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-26T22:35:05Z,totals,Under,1.88,182.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Carlton Blues,2.0,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betright,Bet Right,2026-03-26T22:35:47Z,h2h,Melbourne Demons,1.82,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Carlton Blues,1.9,1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betright,Bet Right,2026-03-26T22:35:47Z,spreads,Melbourne Demons,1.9,-1.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Carlton Blues,1.9,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,h2h,Melbourne Demons,1.9,,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Carlton Blues,1.88,0.5,20260326_223608_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-26T22:35:27Z,spreads,Melbourne Demons,1.92,-0.5,20260326_223608_daily
