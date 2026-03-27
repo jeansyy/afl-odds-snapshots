@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,unibet,Unibet,2026-03-27T08:33:50Z,h2h,Collingwood Magpies,1.4,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,unibet,Unibet,2026-03-27T08:33:50Z,h2h,Greater Western Sydney Giants,2.75,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-27T08:34:02Z,h2h,Collingwood Magpies,1.42,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-27T08:34:02Z,h2h,Greater Western Sydney Giants,3.3,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-27T08:34:02Z,h2h_lay,Collingwood Magpies,1.43,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betfair_ex_au,Betfair,2026-03-27T08:34:02Z,h2h_lay,Greater Western Sydney Giants,3.35,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-27T08:33:39Z,h2h,Collingwood Magpies,1.37,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-27T08:33:39Z,h2h,Greater Western Sydney Giants,3.15,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-27T08:33:39Z,spreads,Collingwood Magpies,1.9,-17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-27T08:33:39Z,spreads,Greater Western Sydney Giants,1.9,17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-27T08:33:39Z,totals,Over,1.9,177.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tab,TAB,2026-03-27T08:33:39Z,totals,Under,1.9,177.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,neds,Neds,2026-03-27T08:33:59Z,h2h,Collingwood Magpies,1.36,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,neds,Neds,2026-03-27T08:33:59Z,h2h,Greater Western Sydney Giants,3.1,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-27T08:33:38Z,h2h,Collingwood Magpies,1.4,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-27T08:33:38Z,h2h,Greater Western Sydney Giants,2.95,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-27T08:33:38Z,spreads,Collingwood Magpies,1.91,-16.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-27T08:33:38Z,spreads,Greater Western Sydney Giants,1.88,16.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-27T08:33:38Z,totals,Over,1.89,177.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,tabtouch,TABtouch,2026-03-27T08:33:38Z,totals,Under,1.89,177.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-27T08:33:53Z,h2h,Collingwood Magpies,1.4,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-27T08:33:53Z,h2h,Greater Western Sydney Giants,2.85,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-27T08:33:53Z,spreads,Collingwood Magpies,1.9,-17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-27T08:33:53Z,spreads,Greater Western Sydney Giants,1.9,17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-27T08:33:53Z,totals,Over,1.9,178.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,pointsbetau,PointsBet (AU),2026-03-27T08:33:53Z,totals,Under,1.9,178.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-27T08:33:49Z,h2h,Collingwood Magpies,1.41,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-27T08:33:49Z,h2h,Greater Western Sydney Giants,3.0,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-27T08:33:49Z,spreads,Collingwood Magpies,1.92,-16.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-27T08:33:49Z,spreads,Greater Western Sydney Giants,1.92,16.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-27T08:33:49Z,totals,Over,1.88,176.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,playup,PlayUp,2026-03-27T08:33:49Z,totals,Under,1.88,176.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-27T08:33:04Z,h2h,Collingwood Magpies,1.4,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-27T08:33:04Z,h2h,Greater Western Sydney Giants,3.0,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-27T08:33:04Z,spreads,Collingwood Magpies,1.8,-15.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betr_au,Betr,2026-03-27T08:33:04Z,spreads,Greater Western Sydney Giants,2.0,15.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,ladbrokes_au,Ladbrokes,2026-03-27T08:33:40Z,h2h,Collingwood Magpies,1.36,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,ladbrokes_au,Ladbrokes,2026-03-27T08:33:40Z,h2h,Greater Western Sydney Giants,3.1,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-27T08:34:01Z,h2h,Collingwood Magpies,1.37,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-27T08:34:01Z,h2h,Greater Western Sydney Giants,3.02,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-27T08:34:01Z,spreads,Collingwood Magpies,1.91,-17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-27T08:34:01Z,spreads,Greater Western Sydney Giants,1.89,17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-27T08:34:01Z,totals,Over,1.9,177.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,sportsbet,SportsBet,2026-03-27T08:34:01Z,totals,Under,1.9,177.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-27T08:33:49Z,h2h,Collingwood Magpies,1.37,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-27T08:33:49Z,h2h,Greater Western Sydney Giants,3.15,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-27T08:33:49Z,spreads,Collingwood Magpies,1.85,-17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,betright,Bet Right,2026-03-27T08:33:49Z,spreads,Greater Western Sydney Giants,1.95,17.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-27T08:33:42Z,h2h,Collingwood Magpies,1.4,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-27T08:33:42Z,h2h,Greater Western Sydney Giants,2.95,,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-27T08:33:42Z,spreads,Collingwood Magpies,1.9,-16.5,20260327_083413
+2ee1bb670b1468133897e4410de496b4,Collingwood Magpies,Greater Western Sydney Giants,2026-03-27T08:40:30Z,dabble_au,Dabble AU,2026-03-27T08:33:42Z,spreads,Greater Western Sydney Giants,1.9,16.5,20260327_083413
