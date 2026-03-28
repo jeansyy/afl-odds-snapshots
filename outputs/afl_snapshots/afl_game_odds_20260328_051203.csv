@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,unibet,Unibet,2026-03-28T05:11:59Z,h2h,Fremantle Dockers,1.03,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,unibet,Unibet,2026-03-28T05:11:59Z,h2h,Richmond Tigers,10.5,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-28T05:12:01Z,h2h,Fremantle Dockers,1.02,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-28T05:12:01Z,h2h,Richmond Tigers,14.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-28T05:12:01Z,spreads,Fremantle Dockers,1.92,-51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-28T05:12:01Z,spreads,Richmond Tigers,1.88,51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-28T05:12:01Z,totals,Over,1.88,166.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,pointsbetau,PointsBet (AU),2026-03-28T05:12:01Z,totals,Under,1.88,166.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-28T05:11:50Z,h2h,Fremantle Dockers,1.02,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-28T05:11:50Z,h2h,Richmond Tigers,34.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-28T05:11:50Z,h2h_lay,Fremantle Dockers,1.03,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betfair_ex_au,Betfair,2026-03-28T05:11:50Z,h2h_lay,Richmond Tigers,40.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-28T05:12:00Z,h2h,Fremantle Dockers,1.02,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-28T05:12:00Z,h2h,Richmond Tigers,13.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-28T05:12:00Z,spreads,Fremantle Dockers,1.9,-51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-28T05:12:00Z,spreads,Richmond Tigers,1.9,51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-28T05:12:00Z,totals,Over,1.9,165.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tab,TAB,2026-03-28T05:12:00Z,totals,Under,1.9,165.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-28T05:11:59Z,h2h,Fremantle Dockers,1.03,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-28T05:11:59Z,h2h,Richmond Tigers,13.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-28T05:11:59Z,spreads,Fremantle Dockers,1.9,-53.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betr_au,Betr,2026-03-28T05:11:59Z,spreads,Richmond Tigers,1.9,53.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-28T05:11:49Z,h2h,Fremantle Dockers,1.02,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-28T05:11:49Z,h2h,Richmond Tigers,16.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-28T05:11:49Z,spreads,Fremantle Dockers,1.9,-51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-28T05:11:49Z,spreads,Richmond Tigers,1.95,51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-28T05:11:49Z,totals,Over,1.88,164.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,playup,PlayUp,2026-03-28T05:11:49Z,totals,Under,1.88,164.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-28T05:11:36Z,h2h,Fremantle Dockers,1.03,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-28T05:11:36Z,h2h,Richmond Tigers,12.5,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-28T05:11:36Z,spreads,Fremantle Dockers,1.89,-51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-28T05:11:36Z,spreads,Richmond Tigers,1.89,51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-28T05:11:36Z,totals,Over,1.89,164.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,tabtouch,TABtouch,2026-03-28T05:11:36Z,totals,Under,1.89,164.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-28T05:11:28Z,h2h,Fremantle Dockers,1.03,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-28T05:11:28Z,h2h,Richmond Tigers,11.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-28T05:11:28Z,spreads,Fremantle Dockers,1.89,-50.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-28T05:11:28Z,spreads,Richmond Tigers,1.91,50.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-28T05:11:28Z,totals,Over,1.9,166.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,sportsbet,SportsBet,2026-03-28T05:11:28Z,totals,Under,1.9,166.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,neds,Neds,2026-03-28T05:11:50Z,h2h,Fremantle Dockers,1.01,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,neds,Neds,2026-03-28T05:11:50Z,h2h,Richmond Tigers,17.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,ladbrokes_au,Ladbrokes,2026-03-28T05:11:59Z,h2h,Fremantle Dockers,1.01,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,ladbrokes_au,Ladbrokes,2026-03-28T05:11:59Z,h2h,Richmond Tigers,17.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-28T05:11:27Z,h2h,Fremantle Dockers,1.02,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-28T05:11:27Z,h2h,Richmond Tigers,14.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-28T05:11:27Z,spreads,Fremantle Dockers,1.86,-51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,betright,Bet Right,2026-03-28T05:11:27Z,spreads,Richmond Tigers,1.92,51.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-28T05:11:37Z,h2h,Fremantle Dockers,1.04,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-28T05:11:37Z,h2h,Richmond Tigers,11.0,,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-28T05:11:37Z,spreads,Fremantle Dockers,1.9,-50.5,20260328_051203
+becc99e004d8ffd3fe6ad06592ca4de5,Fremantle Dockers,Richmond Tigers,2026-03-28T05:15:25Z,dabble_au,Dabble AU,2026-03-28T05:11:37Z,spreads,Richmond Tigers,1.9,50.5,20260328_051203
