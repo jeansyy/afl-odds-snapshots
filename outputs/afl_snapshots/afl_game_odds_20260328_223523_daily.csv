@@ -1,0 +1,103 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,h2h,Port Adelaide Power,1.26,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,h2h,West Coast Eagles,3.9,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,spreads,Port Adelaide Power,1.9,-26.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,spreads,West Coast Eagles,1.9,26.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,totals,Over,1.9,190.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,totals,Under,1.9,190.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h,Port Adelaide Power,1.29,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h,West Coast Eagles,4.4,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h_lay,Port Adelaide Power,1.3,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h_lay,West Coast Eagles,4.5,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-28T22:34:37Z,h2h,Port Adelaide Power,1.27,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-28T22:34:37Z,h2h,West Coast Eagles,3.8,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-28T22:34:37Z,spreads,Port Adelaide Power,1.9,-25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-28T22:34:37Z,spreads,West Coast Eagles,1.9,25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-28T22:34:37Z,totals,Over,1.9,191.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tab,TAB,2026-03-28T22:34:37Z,totals,Under,1.9,191.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,h2h,Port Adelaide Power,1.27,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,h2h,West Coast Eagles,3.6,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,spreads,Port Adelaide Power,1.88,-24.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,spreads,West Coast Eagles,1.88,24.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,totals,Over,1.88,190.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,totals,Under,1.88,190.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,neds,Neds,2026-03-28T22:35:22Z,h2h,Port Adelaide Power,1.26,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,neds,Neds,2026-03-28T22:35:22Z,h2h,West Coast Eagles,3.8,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,ladbrokes_au,Ladbrokes,2026-03-28T22:34:47Z,h2h,Port Adelaide Power,1.26,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,ladbrokes_au,Ladbrokes,2026-03-28T22:34:47Z,h2h,West Coast Eagles,3.8,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-28T22:34:25Z,h2h,Port Adelaide Power,1.28,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-28T22:34:25Z,h2h,West Coast Eagles,3.7,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-28T22:34:25Z,spreads,Port Adelaide Power,1.9,-24.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-28T22:34:25Z,spreads,West Coast Eagles,1.9,24.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-28T22:34:25Z,totals,Over,1.88,192.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,playup,PlayUp,2026-03-28T22:34:25Z,totals,Under,1.88,192.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-28T22:34:40Z,h2h,Port Adelaide Power,1.25,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-28T22:34:40Z,h2h,West Coast Eagles,4.0,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-28T22:34:40Z,spreads,Port Adelaide Power,1.9,-25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betr_au,Betr,2026-03-28T22:34:40Z,spreads,West Coast Eagles,1.9,25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-28T22:34:58Z,h2h,Port Adelaide Power,1.22,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-28T22:34:58Z,h2h,West Coast Eagles,3.95,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-28T22:34:58Z,spreads,Port Adelaide Power,1.9,-25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,betright,Bet Right,2026-03-28T22:34:58Z,spreads,West Coast Eagles,1.9,25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,h2h,Port Adelaide Power,1.26,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,h2h,West Coast Eagles,3.7,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,spreads,Port Adelaide Power,1.89,-24.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,spreads,West Coast Eagles,1.89,24.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,totals,Over,1.89,190.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,totals,Under,1.89,190.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,unibet,Unibet,2026-03-28T22:34:37Z,h2h,Port Adelaide Power,1.26,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,unibet,Unibet,2026-03-28T22:34:37Z,h2h,West Coast Eagles,3.7,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,h2h,Port Adelaide Power,1.28,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,h2h,West Coast Eagles,3.75,,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,spreads,Port Adelaide Power,1.9,-25.5,20260328_223523_daily
+5f6b0f095bf6ace242e18a9443bcd905,Port Adelaide Power,West Coast Eagles,2026-03-29T01:30:09Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,spreads,West Coast Eagles,1.9,25.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,unibet,Unibet,2026-03-28T22:34:37Z,h2h,Carlton Blues,1.94,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,unibet,Unibet,2026-03-28T22:34:37Z,h2h,Melbourne Demons,1.82,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-28T22:34:25Z,h2h,Carlton Blues,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-28T22:34:25Z,h2h,Melbourne Demons,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-28T22:34:25Z,spreads,Carlton Blues,1.95,-1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-28T22:34:25Z,spreads,Melbourne Demons,1.85,1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-28T22:34:25Z,totals,Over,1.88,183.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,playup,PlayUp,2026-03-28T22:34:25Z,totals,Under,1.88,183.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,ladbrokes_au,Ladbrokes,2026-03-28T22:34:47Z,h2h,Carlton Blues,1.98,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,ladbrokes_au,Ladbrokes,2026-03-28T22:34:47Z,h2h,Melbourne Demons,1.83,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,h2h,Carlton Blues,1.93,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,h2h,Melbourne Demons,1.85,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,spreads,Carlton Blues,1.89,1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,spreads,Melbourne Demons,1.89,-1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,totals,Over,1.89,181.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tabtouch,TABtouch,2026-03-28T22:35:13Z,totals,Under,1.89,181.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-28T22:34:37Z,h2h,Carlton Blues,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-28T22:34:37Z,h2h,Melbourne Demons,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-28T22:34:37Z,spreads,Carlton Blues,1.95,-1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-28T22:34:37Z,spreads,Melbourne Demons,1.85,1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-28T22:34:37Z,totals,Over,1.9,181.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,tab,TAB,2026-03-28T22:34:37Z,totals,Under,1.9,181.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h,Carlton Blues,2.06,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h,Melbourne Demons,1.94,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h_lay,Carlton Blues,2.08,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betfair_ex_au,Betfair,2026-03-28T22:35:00Z,h2h_lay,Melbourne Demons,1.95,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,neds,Neds,2026-03-28T22:35:22Z,h2h,Carlton Blues,1.98,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,neds,Neds,2026-03-28T22:35:22Z,h2h,Melbourne Demons,1.83,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-28T22:34:40Z,h2h,Carlton Blues,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-28T22:34:40Z,h2h,Melbourne Demons,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-28T22:34:40Z,spreads,Carlton Blues,1.9,-1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betr_au,Betr,2026-03-28T22:34:40Z,spreads,Melbourne Demons,1.9,1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,h2h,Carlton Blues,1.98,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,h2h,Melbourne Demons,1.86,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,spreads,Carlton Blues,1.9,1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,spreads,Melbourne Demons,1.9,-1.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,totals,Over,1.9,180.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,sportsbet,SportsBet,2026-03-28T22:34:36Z,totals,Under,1.9,180.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,h2h,Carlton Blues,1.87,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,h2h,Melbourne Demons,1.87,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,spreads,Carlton Blues,1.85,0.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,spreads,Melbourne Demons,1.9,-0.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,totals,Over,1.88,183.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,pointsbetau,PointsBet (AU),2026-03-28T22:35:11Z,totals,Under,1.88,183.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betright,Bet Right,2026-03-28T22:34:58Z,h2h,Carlton Blues,1.88,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,betright,Bet Right,2026-03-28T22:34:58Z,h2h,Melbourne Demons,1.92,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,h2h,Carlton Blues,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,h2h,Melbourne Demons,1.9,,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,spreads,Carlton Blues,1.88,0.5,20260328_223523_daily
+0c621cc426e978901144506f40979267,Carlton Blues,Melbourne Demons,2026-03-29T04:15:35Z,dabble_au,Dabble AU,2026-03-28T22:35:10Z,spreads,Melbourne Demons,1.92,-0.5,20260328_223523_daily
