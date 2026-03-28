@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-28T08:29:58Z,h2h,Essendon Bombers,2.77,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-28T08:29:58Z,h2h,North Melbourne Kangaroos,1.43,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-28T08:29:58Z,spreads,Essendon Bombers,1.9,15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-28T08:29:58Z,spreads,North Melbourne Kangaroos,1.9,-15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-28T08:29:58Z,totals,Over,1.9,187.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,sportsbet,SportsBet,2026-03-28T08:29:58Z,totals,Under,1.9,187.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-28T08:29:25Z,h2h,Essendon Bombers,2.9,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-28T08:29:25Z,h2h,North Melbourne Kangaroos,1.42,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-28T08:29:25Z,spreads,Essendon Bombers,1.9,16.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-28T08:29:25Z,spreads,North Melbourne Kangaroos,1.9,-16.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-28T08:29:25Z,totals,Over,1.9,185.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tab,TAB,2026-03-28T08:29:25Z,totals,Under,1.9,185.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-28T08:29:26Z,h2h,Essendon Bombers,3.2,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-28T08:29:26Z,h2h,North Melbourne Kangaroos,1.45,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-28T08:29:26Z,h2h_lay,Essendon Bombers,3.25,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betfair_ex_au,Betfair,2026-03-28T08:29:26Z,h2h_lay,North Melbourne Kangaroos,1.46,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-28T08:29:47Z,h2h,Essendon Bombers,2.8,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-28T08:29:47Z,h2h,North Melbourne Kangaroos,1.42,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-28T08:29:47Z,spreads,Essendon Bombers,1.9,15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-28T08:29:47Z,spreads,North Melbourne Kangaroos,1.9,-15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-28T08:29:47Z,totals,Over,1.9,187.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,pointsbetau,PointsBet (AU),2026-03-28T08:29:47Z,totals,Under,1.9,187.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,ladbrokes_au,Ladbrokes,2026-03-28T08:29:57Z,h2h,Essendon Bombers,2.85,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,ladbrokes_au,Ladbrokes,2026-03-28T08:29:57Z,h2h,North Melbourne Kangaroos,1.42,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,neds,Neds,2026-03-28T08:29:45Z,h2h,Essendon Bombers,2.85,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,neds,Neds,2026-03-28T08:29:45Z,h2h,North Melbourne Kangaroos,1.42,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-28T08:29:56Z,h2h,Essendon Bombers,3.0,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-28T08:29:56Z,h2h,North Melbourne Kangaroos,1.41,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-28T08:29:56Z,spreads,Essendon Bombers,1.92,15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-28T08:29:56Z,spreads,North Melbourne Kangaroos,1.92,-15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-28T08:29:56Z,totals,Over,1.88,186.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,playup,PlayUp,2026-03-28T08:29:56Z,totals,Under,1.88,186.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-28T08:29:56Z,h2h,Essendon Bombers,2.95,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-28T08:29:56Z,h2h,North Melbourne Kangaroos,1.4,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-28T08:29:56Z,spreads,Essendon Bombers,1.95,15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betr_au,Betr,2026-03-28T08:29:56Z,spreads,North Melbourne Kangaroos,1.85,-15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-28T08:29:27Z,h2h,Essendon Bombers,2.85,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-28T08:29:27Z,h2h,North Melbourne Kangaroos,1.43,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-28T08:29:27Z,spreads,Essendon Bombers,1.9,15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,betright,Bet Right,2026-03-28T08:29:27Z,spreads,North Melbourne Kangaroos,1.9,-15.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,unibet,Unibet,2026-03-28T08:29:46Z,h2h,Essendon Bombers,2.75,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,unibet,Unibet,2026-03-28T08:29:46Z,h2h,North Melbourne Kangaroos,1.41,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-28T08:29:35Z,h2h,Essendon Bombers,2.8,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-28T08:29:35Z,h2h,North Melbourne Kangaroos,1.41,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-28T08:29:35Z,spreads,Essendon Bombers,1.89,16.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-28T08:29:35Z,spreads,North Melbourne Kangaroos,1.89,-16.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-28T08:29:35Z,totals,Over,1.88,186.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,tabtouch,TABtouch,2026-03-28T08:29:35Z,totals,Under,1.92,186.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-28T08:28:27Z,h2h,Essendon Bombers,3.0,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-28T08:28:27Z,h2h,North Melbourne Kangaroos,1.4,,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-28T08:28:27Z,spreads,Essendon Bombers,1.92,17.5,20260328_082959
+0fccd15fb6197a73902be76a2e54759d,Essendon Bombers,North Melbourne Kangaroos,2026-03-28T08:35:52Z,dabble_au,Dabble AU,2026-03-28T08:28:27Z,spreads,North Melbourne Kangaroos,1.88,-17.5,20260328_082959
