@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,sportsbet,SportsBet,2026-04-05T09:04:00Z,h2h,Essendon Bombers,15.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,sportsbet,SportsBet,2026-04-05T09:04:00Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,sportsbet,SportsBet,2026-04-05T09:04:00Z,spreads,Essendon Bombers,1.9,73.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,sportsbet,SportsBet,2026-04-05T09:04:00Z,spreads,Western Bulldogs,1.9,-73.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,sportsbet,SportsBet,2026-04-05T09:04:00Z,totals,Over,1.88,193.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,sportsbet,SportsBet,2026-04-05T09:04:00Z,totals,Under,1.92,193.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,ladbrokes_au,Ladbrokes,2026-04-05T09:03:48Z,h2h,Essendon Bombers,23.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,ladbrokes_au,Ladbrokes,2026-04-05T09:03:48Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,playup,PlayUp,2026-04-05T09:03:27Z,h2h,Essendon Bombers,21.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,playup,PlayUp,2026-04-05T09:03:27Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,playup,PlayUp,2026-04-05T09:03:27Z,spreads,Essendon Bombers,1.92,74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,playup,PlayUp,2026-04-05T09:03:27Z,spreads,Western Bulldogs,1.92,-74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,playup,PlayUp,2026-04-05T09:03:27Z,totals,Over,1.88,192.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,playup,PlayUp,2026-04-05T09:03:27Z,totals,Under,1.88,192.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,neds,Neds,2026-04-05T09:03:38Z,h2h,Essendon Bombers,23.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,neds,Neds,2026-04-05T09:03:38Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betfair_ex_au,Betfair,2026-04-05T09:03:50Z,h2h,Essendon Bombers,27.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betfair_ex_au,Betfair,2026-04-05T09:03:50Z,h2h,Western Bulldogs,1.03,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betfair_ex_au,Betfair,2026-04-05T09:03:50Z,h2h_lay,Essendon Bombers,28.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betfair_ex_au,Betfair,2026-04-05T09:03:50Z,h2h_lay,Western Bulldogs,1.04,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tab,TAB,2026-04-05T09:03:40Z,h2h,Essendon Bombers,21.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tab,TAB,2026-04-05T09:03:40Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tab,TAB,2026-04-05T09:03:40Z,spreads,Essendon Bombers,1.9,71.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tab,TAB,2026-04-05T09:03:40Z,spreads,Western Bulldogs,1.9,-71.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tab,TAB,2026-04-05T09:03:40Z,totals,Over,1.9,192.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tab,TAB,2026-04-05T09:03:40Z,totals,Under,1.9,192.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betr_au,Betr,2026-04-05T09:02:50Z,h2h,Essendon Bombers,17.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betr_au,Betr,2026-04-05T09:02:50Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betr_au,Betr,2026-04-05T09:02:50Z,spreads,Essendon Bombers,1.95,74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betr_au,Betr,2026-04-05T09:02:50Z,spreads,Western Bulldogs,1.85,-74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tabtouch,TABtouch,2026-04-05T09:03:36Z,h2h,Essendon Bombers,15.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tabtouch,TABtouch,2026-04-05T09:03:36Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tabtouch,TABtouch,2026-04-05T09:03:36Z,spreads,Essendon Bombers,1.89,74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tabtouch,TABtouch,2026-04-05T09:03:36Z,spreads,Western Bulldogs,1.89,-74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tabtouch,TABtouch,2026-04-05T09:03:36Z,totals,Over,1.89,193.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,tabtouch,TABtouch,2026-04-05T09:03:36Z,totals,Under,1.89,193.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,unibet,Unibet,2026-04-05T09:03:28Z,h2h,Essendon Bombers,12.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,unibet,Unibet,2026-04-05T09:03:28Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,pointsbetau,PointsBet (AU),2026-04-05T09:04:01Z,h2h,Essendon Bombers,21.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,pointsbetau,PointsBet (AU),2026-04-05T09:04:01Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,pointsbetau,PointsBet (AU),2026-04-05T09:04:01Z,spreads,Essendon Bombers,1.9,72.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,pointsbetau,PointsBet (AU),2026-04-05T09:04:01Z,spreads,Western Bulldogs,1.9,-72.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,pointsbetau,PointsBet (AU),2026-04-05T09:04:01Z,totals,Over,1.9,192.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,pointsbetau,PointsBet (AU),2026-04-05T09:04:01Z,totals,Under,1.9,192.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betright,Bet Right,2026-04-05T09:04:01Z,h2h,Essendon Bombers,16.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betright,Bet Right,2026-04-05T09:04:01Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betright,Bet Right,2026-04-05T09:04:01Z,spreads,Essendon Bombers,1.8,74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,betright,Bet Right,2026-04-05T09:04:01Z,spreads,Western Bulldogs,2.0,-74.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,dabble_au,Dabble AU,2026-04-05T09:03:52Z,h2h,Essendon Bombers,17.0,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,dabble_au,Dabble AU,2026-04-05T09:03:52Z,h2h,Western Bulldogs,1.01,,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,dabble_au,Dabble AU,2026-04-05T09:03:52Z,spreads,Essendon Bombers,1.9,73.5,20260405_090409
+18c9af33d5f9b5d6ec82b9490682d169,Western Bulldogs,Essendon Bombers,2026-04-05T09:20:55Z,dabble_au,Dabble AU,2026-04-05T09:03:52Z,spreads,Western Bulldogs,1.9,-73.5,20260405_090409
