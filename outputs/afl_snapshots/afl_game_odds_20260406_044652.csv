@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,sportsbet,SportsBet,2026-04-06T04:46:34Z,h2h,Geelong Cats,2.1,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,sportsbet,SportsBet,2026-04-06T04:46:34Z,h2h,Hawthorn Hawks,1.72,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,sportsbet,SportsBet,2026-04-06T04:46:34Z,spreads,Geelong Cats,1.9,4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,sportsbet,SportsBet,2026-04-06T04:46:34Z,spreads,Hawthorn Hawks,1.9,-4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,sportsbet,SportsBet,2026-04-06T04:46:34Z,totals,Over,1.9,185.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,sportsbet,SportsBet,2026-04-06T04:46:34Z,totals,Under,1.9,185.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,ladbrokes_au,Ladbrokes,2026-04-06T04:46:26Z,h2h,Geelong Cats,2.1,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,ladbrokes_au,Ladbrokes,2026-04-06T04:46:26Z,h2h,Hawthorn Hawks,1.73,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,playup,PlayUp,2026-04-06T04:46:22Z,h2h,Geelong Cats,2.05,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,playup,PlayUp,2026-04-06T04:46:22Z,h2h,Hawthorn Hawks,1.8,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,playup,PlayUp,2026-04-06T04:46:22Z,spreads,Geelong Cats,1.92,4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,playup,PlayUp,2026-04-06T04:46:22Z,spreads,Hawthorn Hawks,1.92,-4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,playup,PlayUp,2026-04-06T04:46:22Z,totals,Over,1.91,185.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,playup,PlayUp,2026-04-06T04:46:22Z,totals,Under,1.85,185.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,neds,Neds,2026-04-06T04:46:21Z,h2h,Geelong Cats,2.1,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,neds,Neds,2026-04-06T04:46:21Z,h2h,Hawthorn Hawks,1.73,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betfair_ex_au,Betfair,2026-04-06T04:46:34Z,h2h,Geelong Cats,2.06,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betfair_ex_au,Betfair,2026-04-06T04:46:34Z,h2h,Hawthorn Hawks,1.93,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betfair_ex_au,Betfair,2026-04-06T04:46:34Z,h2h_lay,Geelong Cats,2.08,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betfair_ex_au,Betfair,2026-04-06T04:46:34Z,h2h_lay,Hawthorn Hawks,1.94,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tab,TAB,2026-04-06T04:46:24Z,h2h,Geelong Cats,2.05,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tab,TAB,2026-04-06T04:46:24Z,h2h,Hawthorn Hawks,1.78,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tab,TAB,2026-04-06T04:46:24Z,spreads,Geelong Cats,1.9,3.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tab,TAB,2026-04-06T04:46:24Z,spreads,Hawthorn Hawks,1.9,-3.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tab,TAB,2026-04-06T04:46:24Z,totals,Over,1.9,184.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tab,TAB,2026-04-06T04:46:24Z,totals,Under,1.9,184.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betr_au,Betr,2026-04-06T04:46:22Z,h2h,Geelong Cats,2.1,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betr_au,Betr,2026-04-06T04:46:22Z,h2h,Hawthorn Hawks,1.75,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betr_au,Betr,2026-04-06T04:46:22Z,spreads,Geelong Cats,1.8,5.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betr_au,Betr,2026-04-06T04:46:22Z,spreads,Hawthorn Hawks,2.0,-5.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tabtouch,TABtouch,2026-04-06T04:46:23Z,h2h,Geelong Cats,2.14,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tabtouch,TABtouch,2026-04-06T04:46:23Z,h2h,Hawthorn Hawks,1.71,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tabtouch,TABtouch,2026-04-06T04:46:23Z,spreads,Geelong Cats,1.89,5.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tabtouch,TABtouch,2026-04-06T04:46:23Z,spreads,Hawthorn Hawks,1.89,-5.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tabtouch,TABtouch,2026-04-06T04:46:23Z,totals,Over,1.89,186.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,tabtouch,TABtouch,2026-04-06T04:46:23Z,totals,Under,1.89,186.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,unibet,Unibet,2026-04-06T04:46:22Z,h2h,Geelong Cats,2.12,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,unibet,Unibet,2026-04-06T04:46:22Z,h2h,Hawthorn Hawks,1.7,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betright,Bet Right,2026-04-06T04:46:33Z,h2h,Geelong Cats,2.0,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betright,Bet Right,2026-04-06T04:46:33Z,h2h,Hawthorn Hawks,1.8,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betright,Bet Right,2026-04-06T04:46:33Z,spreads,Geelong Cats,1.9,3.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,betright,Bet Right,2026-04-06T04:46:33Z,spreads,Hawthorn Hawks,1.9,-3.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,dabble_au,Dabble AU,2026-04-06T04:46:22Z,h2h,Geelong Cats,2.08,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,dabble_au,Dabble AU,2026-04-06T04:46:22Z,h2h,Hawthorn Hawks,1.72,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,dabble_au,Dabble AU,2026-04-06T04:46:22Z,spreads,Geelong Cats,1.9,4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,dabble_au,Dabble AU,2026-04-06T04:46:22Z,spreads,Hawthorn Hawks,1.9,-4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,pointsbetau,PointsBet (AU),2026-04-06T04:46:34Z,h2h,Geelong Cats,2.05,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,pointsbetau,PointsBet (AU),2026-04-06T04:46:34Z,h2h,Hawthorn Hawks,1.77,,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,pointsbetau,PointsBet (AU),2026-04-06T04:46:34Z,spreads,Geelong Cats,1.88,4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,pointsbetau,PointsBet (AU),2026-04-06T04:46:34Z,spreads,Hawthorn Hawks,1.92,-4.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,pointsbetau,PointsBet (AU),2026-04-06T04:46:34Z,totals,Over,1.9,185.5,20260406_044652
+78a1b6520faa77820ad71b0921ae00fc,Hawthorn Hawks,Geelong Cats,2026-04-06T05:15:36Z,pointsbetau,PointsBet (AU),2026-04-06T04:46:34Z,totals,Under,1.9,185.5,20260406_044652
