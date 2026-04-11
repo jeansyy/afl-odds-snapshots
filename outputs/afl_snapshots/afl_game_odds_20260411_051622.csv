@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,unibet,Unibet,2026-04-11T05:16:15Z,h2h,Gold Coast Suns,2.06,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,unibet,Unibet,2026-04-11T05:16:15Z,h2h,Sydney Swans,1.73,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betfair_ex_au,Betfair,2026-04-11T05:16:08Z,h2h,Gold Coast Suns,2.28,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betfair_ex_au,Betfair,2026-04-11T05:16:08Z,h2h,Sydney Swans,1.75,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betfair_ex_au,Betfair,2026-04-11T05:16:08Z,h2h_lay,Gold Coast Suns,2.32,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betfair_ex_au,Betfair,2026-04-11T05:16:08Z,h2h_lay,Sydney Swans,1.77,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,playup,PlayUp,2026-04-11T05:15:52Z,h2h,Gold Coast Suns,2.15,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,playup,PlayUp,2026-04-11T05:15:52Z,h2h,Sydney Swans,1.7,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,playup,PlayUp,2026-04-11T05:15:52Z,spreads,Gold Coast Suns,1.9,4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,playup,PlayUp,2026-04-11T05:15:52Z,spreads,Sydney Swans,1.9,-4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,playup,PlayUp,2026-04-11T05:15:52Z,totals,Over,1.88,190.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,playup,PlayUp,2026-04-11T05:15:52Z,totals,Under,1.88,190.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betr_au,Betr,2026-04-11T05:16:15Z,h2h,Gold Coast Suns,2.1,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betr_au,Betr,2026-04-11T05:16:15Z,h2h,Sydney Swans,1.74,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betr_au,Betr,2026-04-11T05:16:15Z,spreads,Gold Coast Suns,1.9,4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betr_au,Betr,2026-04-11T05:16:15Z,spreads,Sydney Swans,1.9,-4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,neds,Neds,2026-04-11T05:16:15Z,h2h,Gold Coast Suns,2.05,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,neds,Neds,2026-04-11T05:16:15Z,h2h,Sydney Swans,1.77,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tabtouch,TABtouch,2026-04-11T05:15:52Z,h2h,Gold Coast Suns,2.1,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tabtouch,TABtouch,2026-04-11T05:15:52Z,h2h,Sydney Swans,1.74,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tabtouch,TABtouch,2026-04-11T05:15:52Z,spreads,Gold Coast Suns,1.89,4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tabtouch,TABtouch,2026-04-11T05:15:52Z,spreads,Sydney Swans,1.89,-4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tabtouch,TABtouch,2026-04-11T05:15:52Z,totals,Over,1.89,192.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tabtouch,TABtouch,2026-04-11T05:15:52Z,totals,Under,1.89,192.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tab,TAB,2026-04-11T05:16:17Z,h2h,Gold Coast Suns,2.15,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tab,TAB,2026-04-11T05:16:17Z,h2h,Sydney Swans,1.7,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tab,TAB,2026-04-11T05:16:17Z,spreads,Gold Coast Suns,1.9,4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tab,TAB,2026-04-11T05:16:17Z,spreads,Sydney Swans,1.9,-4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tab,TAB,2026-04-11T05:16:17Z,totals,Over,1.9,189.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,tab,TAB,2026-04-11T05:16:17Z,totals,Under,1.9,189.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,ladbrokes_au,Ladbrokes,2026-04-11T05:16:15Z,h2h,Gold Coast Suns,2.05,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,ladbrokes_au,Ladbrokes,2026-04-11T05:16:15Z,h2h,Sydney Swans,1.77,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betright,Bet Right,2026-04-11T05:15:53Z,h2h,Gold Coast Suns,2.2,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betright,Bet Right,2026-04-11T05:15:53Z,h2h,Sydney Swans,1.7,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betright,Bet Right,2026-04-11T05:15:53Z,spreads,Gold Coast Suns,1.9,4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,betright,Bet Right,2026-04-11T05:15:53Z,spreads,Sydney Swans,1.9,-4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,pointsbetau,PointsBet (AU),2026-04-11T05:16:18Z,h2h,Gold Coast Suns,2.1,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,pointsbetau,PointsBet (AU),2026-04-11T05:16:18Z,h2h,Sydney Swans,1.71,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,pointsbetau,PointsBet (AU),2026-04-11T05:16:18Z,spreads,Gold Coast Suns,1.9,5.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,pointsbetau,PointsBet (AU),2026-04-11T05:16:18Z,spreads,Sydney Swans,1.9,-5.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,pointsbetau,PointsBet (AU),2026-04-11T05:16:18Z,totals,Over,1.9,188.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,pointsbetau,PointsBet (AU),2026-04-11T05:16:18Z,totals,Under,1.9,188.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,dabble_au,Dabble AU,2026-04-11T05:15:54Z,h2h,Gold Coast Suns,2.1,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,dabble_au,Dabble AU,2026-04-11T05:15:54Z,h2h,Sydney Swans,1.75,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,dabble_au,Dabble AU,2026-04-11T05:15:54Z,spreads,Gold Coast Suns,1.9,4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,dabble_au,Dabble AU,2026-04-11T05:15:54Z,spreads,Sydney Swans,1.9,-4.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,sportsbet,SportsBet,2026-04-11T05:16:18Z,h2h,Gold Coast Suns,2.1,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,sportsbet,SportsBet,2026-04-11T05:16:18Z,h2h,Sydney Swans,1.72,,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,sportsbet,SportsBet,2026-04-11T05:16:18Z,spreads,Gold Coast Suns,1.9,5.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,sportsbet,SportsBet,2026-04-11T05:16:18Z,spreads,Sydney Swans,1.9,-5.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,sportsbet,SportsBet,2026-04-11T05:16:18Z,totals,Over,1.9,188.5,20260411_051622
+05535ea3697ff0eac42567b4d2caf932,Sydney Swans,Gold Coast Suns,2026-04-11T06:15:00Z,sportsbet,SportsBet,2026-04-11T05:16:18Z,totals,Under,1.9,188.5,20260411_051622
