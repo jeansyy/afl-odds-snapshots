@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,unibet,Unibet,2026-04-12T09:01:09Z,h2h,Port Adelaide Power,2.25,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,unibet,Unibet,2026-04-12T09:01:09Z,h2h,St Kilda Saints,1.61,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tabtouch,TABtouch,2026-04-12T09:01:09Z,h2h,Port Adelaide Power,2.28,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tabtouch,TABtouch,2026-04-12T09:01:09Z,h2h,St Kilda Saints,1.63,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tabtouch,TABtouch,2026-04-12T09:01:09Z,spreads,Port Adelaide Power,1.89,8.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tabtouch,TABtouch,2026-04-12T09:01:09Z,spreads,St Kilda Saints,1.89,-8.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tabtouch,TABtouch,2026-04-12T09:01:09Z,totals,Over,1.89,170.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tabtouch,TABtouch,2026-04-12T09:01:09Z,totals,Under,1.89,170.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,ladbrokes_au,Ladbrokes,2026-04-12T09:01:11Z,h2h,Port Adelaide Power,2.3,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,ladbrokes_au,Ladbrokes,2026-04-12T09:01:11Z,h2h,St Kilda Saints,1.64,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betfair_ex_au,Betfair,2026-04-12T09:01:34Z,h2h,Port Adelaide Power,2.22,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betfair_ex_au,Betfair,2026-04-12T09:01:34Z,h2h,St Kilda Saints,1.81,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betfair_ex_au,Betfair,2026-04-12T09:01:34Z,h2h_lay,Port Adelaide Power,2.24,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betfair_ex_au,Betfair,2026-04-12T09:01:34Z,h2h_lay,St Kilda Saints,1.82,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tab,TAB,2026-04-12T09:00:59Z,h2h,Port Adelaide Power,2.3,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tab,TAB,2026-04-12T09:00:59Z,h2h,St Kilda Saints,1.62,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tab,TAB,2026-04-12T09:00:59Z,spreads,Port Adelaide Power,1.9,6.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tab,TAB,2026-04-12T09:00:59Z,spreads,St Kilda Saints,1.9,-6.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tab,TAB,2026-04-12T09:00:59Z,totals,Over,1.85,170.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,tab,TAB,2026-04-12T09:00:59Z,totals,Under,1.95,170.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,neds,Neds,2026-04-12T09:01:00Z,h2h,Port Adelaide Power,2.3,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,neds,Neds,2026-04-12T09:01:00Z,h2h,St Kilda Saints,1.64,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,playup,PlayUp,2026-04-12T09:01:31Z,h2h,Port Adelaide Power,2.2,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,playup,PlayUp,2026-04-12T09:01:31Z,h2h,St Kilda Saints,1.7,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,playup,PlayUp,2026-04-12T09:01:31Z,spreads,Port Adelaide Power,1.94,6.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,playup,PlayUp,2026-04-12T09:01:31Z,spreads,St Kilda Saints,1.9,-6.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,playup,PlayUp,2026-04-12T09:01:31Z,totals,Over,1.88,171.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,playup,PlayUp,2026-04-12T09:01:31Z,totals,Under,1.88,171.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betr_au,Betr,2026-04-12T09:00:51Z,h2h,Port Adelaide Power,2.25,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betr_au,Betr,2026-04-12T09:00:51Z,h2h,St Kilda Saints,1.65,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betr_au,Betr,2026-04-12T09:00:51Z,spreads,Port Adelaide Power,1.9,7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betr_au,Betr,2026-04-12T09:00:51Z,spreads,St Kilda Saints,1.9,-7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betright,Bet Right,2026-04-12T09:01:21Z,h2h,Port Adelaide Power,2.25,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betright,Bet Right,2026-04-12T09:01:21Z,h2h,St Kilda Saints,1.65,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betright,Bet Right,2026-04-12T09:01:21Z,spreads,Port Adelaide Power,1.86,7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,betright,Bet Right,2026-04-12T09:01:21Z,spreads,St Kilda Saints,1.94,-7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,pointsbetau,PointsBet (AU),2026-04-12T09:01:10Z,h2h,Port Adelaide Power,2.25,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,pointsbetau,PointsBet (AU),2026-04-12T09:01:10Z,h2h,St Kilda Saints,1.63,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,pointsbetau,PointsBet (AU),2026-04-12T09:01:10Z,spreads,Port Adelaide Power,1.9,6.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,pointsbetau,PointsBet (AU),2026-04-12T09:01:10Z,spreads,St Kilda Saints,1.9,-6.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,pointsbetau,PointsBet (AU),2026-04-12T09:01:10Z,totals,Over,1.9,171.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,pointsbetau,PointsBet (AU),2026-04-12T09:01:10Z,totals,Under,1.9,171.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,dabble_au,Dabble AU,2026-04-12T09:01:20Z,h2h,Port Adelaide Power,2.3,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,dabble_au,Dabble AU,2026-04-12T09:01:20Z,h2h,St Kilda Saints,1.62,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,dabble_au,Dabble AU,2026-04-12T09:01:20Z,spreads,Port Adelaide Power,1.9,7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,dabble_au,Dabble AU,2026-04-12T09:01:20Z,spreads,St Kilda Saints,1.9,-7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,sportsbet,SportsBet,2026-04-12T09:01:20Z,h2h,Port Adelaide Power,2.2,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,sportsbet,SportsBet,2026-04-12T09:01:20Z,h2h,St Kilda Saints,1.65,,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,sportsbet,SportsBet,2026-04-12T09:01:20Z,spreads,Port Adelaide Power,1.9,7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,sportsbet,SportsBet,2026-04-12T09:01:20Z,spreads,St Kilda Saints,1.9,-7.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,sportsbet,SportsBet,2026-04-12T09:01:20Z,totals,Over,1.89,171.5,20260412_090135
+f791046d24db9b173ea308e4e16d267c,Port Adelaide Power,St Kilda Saints,2026-04-12T09:15:00Z,sportsbet,SportsBet,2026-04-12T09:01:20Z,totals,Under,1.9,171.5,20260412_090135
