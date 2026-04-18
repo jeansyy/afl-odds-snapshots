@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,sportsbet,SportsBet,2026-04-18T09:26:54Z,h2h,Adelaide Crows,1.65,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,sportsbet,SportsBet,2026-04-18T09:26:54Z,h2h,St Kilda Saints,2.2,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,sportsbet,SportsBet,2026-04-18T09:26:54Z,spreads,Adelaide Crows,1.91,-6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,sportsbet,SportsBet,2026-04-18T09:26:54Z,spreads,St Kilda Saints,1.91,6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,sportsbet,SportsBet,2026-04-18T09:26:54Z,totals,Over,1.91,174.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,sportsbet,SportsBet,2026-04-18T09:26:54Z,totals,Under,1.91,174.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,neds,Neds,2026-04-18T09:26:44Z,h2h,Adelaide Crows,1.72,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,neds,Neds,2026-04-18T09:26:44Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,pointsbetau,PointsBet (AU),2026-04-18T09:27:19Z,h2h,Adelaide Crows,1.71,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,pointsbetau,PointsBet (AU),2026-04-18T09:27:19Z,h2h,St Kilda Saints,2.1,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,pointsbetau,PointsBet (AU),2026-04-18T09:27:19Z,spreads,Adelaide Crows,1.9,-5.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,pointsbetau,PointsBet (AU),2026-04-18T09:27:19Z,spreads,St Kilda Saints,1.9,5.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,pointsbetau,PointsBet (AU),2026-04-18T09:27:19Z,totals,Over,1.88,174.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,pointsbetau,PointsBet (AU),2026-04-18T09:27:19Z,totals,Under,1.88,174.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betfair_ex_au,Betfair,2026-04-18T09:27:08Z,h2h,Adelaide Crows,1.77,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betfair_ex_au,Betfair,2026-04-18T09:27:08Z,h2h,St Kilda Saints,2.28,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betfair_ex_au,Betfair,2026-04-18T09:27:08Z,h2h_lay,Adelaide Crows,1.78,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betfair_ex_au,Betfair,2026-04-18T09:27:08Z,h2h_lay,St Kilda Saints,2.3,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,ladbrokes_au,Ladbrokes,2026-04-18T09:27:06Z,h2h,Adelaide Crows,1.72,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,ladbrokes_au,Ladbrokes,2026-04-18T09:27:06Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tab,TAB,2026-04-18T09:27:06Z,h2h,Adelaide Crows,1.7,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tab,TAB,2026-04-18T09:27:06Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tab,TAB,2026-04-18T09:27:06Z,spreads,Adelaide Crows,1.9,-6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tab,TAB,2026-04-18T09:27:06Z,spreads,St Kilda Saints,1.9,6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tab,TAB,2026-04-18T09:27:06Z,totals,Over,1.9,174.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tab,TAB,2026-04-18T09:27:06Z,totals,Under,1.9,174.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betr_au,Betr,2026-04-18T09:26:55Z,h2h,Adelaide Crows,1.65,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betr_au,Betr,2026-04-18T09:26:55Z,h2h,St Kilda Saints,2.25,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betr_au,Betr,2026-04-18T09:26:55Z,spreads,Adelaide Crows,1.95,-8.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betr_au,Betr,2026-04-18T09:26:55Z,spreads,St Kilda Saints,1.85,8.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,playup,PlayUp,2026-04-18T09:27:07Z,h2h,Adelaide Crows,1.7,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,playup,PlayUp,2026-04-18T09:27:07Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,playup,PlayUp,2026-04-18T09:27:07Z,spreads,Adelaide Crows,1.9,-6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,playup,PlayUp,2026-04-18T09:27:07Z,spreads,St Kilda Saints,1.9,6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,playup,PlayUp,2026-04-18T09:27:07Z,totals,Over,1.88,173.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,playup,PlayUp,2026-04-18T09:27:07Z,totals,Under,1.88,173.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betright,Bet Right,2026-04-18T09:27:17Z,h2h,Adelaide Crows,1.74,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betright,Bet Right,2026-04-18T09:27:17Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betright,Bet Right,2026-04-18T09:27:17Z,spreads,Adelaide Crows,1.95,-6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,betright,Bet Right,2026-04-18T09:27:17Z,spreads,St Kilda Saints,1.85,6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tabtouch,TABtouch,2026-04-18T09:27:20Z,h2h,Adelaide Crows,1.71,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tabtouch,TABtouch,2026-04-18T09:27:20Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tabtouch,TABtouch,2026-04-18T09:27:20Z,spreads,Adelaide Crows,1.89,-6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tabtouch,TABtouch,2026-04-18T09:27:20Z,spreads,St Kilda Saints,1.89,6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tabtouch,TABtouch,2026-04-18T09:27:20Z,totals,Over,1.87,173.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,tabtouch,TABtouch,2026-04-18T09:27:20Z,totals,Under,1.93,173.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,unibet,Unibet,2026-04-18T09:26:55Z,h2h,Adelaide Crows,1.7,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,unibet,Unibet,2026-04-18T09:26:55Z,h2h,St Kilda Saints,2.12,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,dabble_au,Dabble AU,2026-04-18T09:27:30Z,h2h,Adelaide Crows,1.68,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,dabble_au,Dabble AU,2026-04-18T09:27:30Z,h2h,St Kilda Saints,2.15,,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,dabble_au,Dabble AU,2026-04-18T09:27:30Z,spreads,Adelaide Crows,1.9,-6.5,20260418_092730
+fa9a95dacdda3a7a779f799f29679355,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,dabble_au,Dabble AU,2026-04-18T09:27:30Z,spreads,St Kilda Saints,1.9,6.5,20260418_092730
