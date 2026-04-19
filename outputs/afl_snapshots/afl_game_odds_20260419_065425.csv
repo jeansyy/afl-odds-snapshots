@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,unibet,Unibet,2026-04-19T06:53:44Z,h2h,Fremantle Dockers,1.08,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,unibet,Unibet,2026-04-19T06:53:44Z,h2h,West Coast Eagles,7.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betr_au,Betr,2026-04-19T06:53:42Z,h2h,Fremantle Dockers,1.08,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betr_au,Betr,2026-04-19T06:53:42Z,h2h,West Coast Eagles,8.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betr_au,Betr,2026-04-19T06:53:42Z,spreads,Fremantle Dockers,1.9,-45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betr_au,Betr,2026-04-19T06:53:42Z,spreads,West Coast Eagles,1.9,45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tabtouch,TABtouch,2026-04-19T06:53:42Z,h2h,Fremantle Dockers,1.08,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tabtouch,TABtouch,2026-04-19T06:53:42Z,h2h,West Coast Eagles,8.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tabtouch,TABtouch,2026-04-19T06:53:42Z,spreads,Fremantle Dockers,1.89,-43.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tabtouch,TABtouch,2026-04-19T06:53:42Z,spreads,West Coast Eagles,1.89,43.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tabtouch,TABtouch,2026-04-19T06:53:42Z,totals,Over,1.89,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tabtouch,TABtouch,2026-04-19T06:53:42Z,totals,Under,1.89,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betfair_ex_au,Betfair,2026-04-19T06:53:57Z,h2h,Fremantle Dockers,1.09,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betfair_ex_au,Betfair,2026-04-19T06:53:57Z,h2h,West Coast Eagles,11.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betfair_ex_au,Betfair,2026-04-19T06:53:57Z,h2h_lay,Fremantle Dockers,1.1,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betfair_ex_au,Betfair,2026-04-19T06:53:57Z,h2h_lay,West Coast Eagles,12.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,playup,PlayUp,2026-04-19T06:54:07Z,h2h,Fremantle Dockers,1.07,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,playup,PlayUp,2026-04-19T06:54:07Z,h2h,West Coast Eagles,8.5,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,playup,PlayUp,2026-04-19T06:54:07Z,spreads,Fremantle Dockers,1.9,-45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,playup,PlayUp,2026-04-19T06:54:07Z,spreads,West Coast Eagles,1.9,45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,playup,PlayUp,2026-04-19T06:54:07Z,totals,Over,1.88,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,playup,PlayUp,2026-04-19T06:54:07Z,totals,Under,1.88,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tab,TAB,2026-04-19T06:53:55Z,h2h,Fremantle Dockers,1.08,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tab,TAB,2026-04-19T06:53:55Z,h2h,West Coast Eagles,8.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tab,TAB,2026-04-19T06:53:55Z,spreads,Fremantle Dockers,1.9,-44.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tab,TAB,2026-04-19T06:53:55Z,spreads,West Coast Eagles,1.9,44.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tab,TAB,2026-04-19T06:53:55Z,totals,Over,1.9,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,tab,TAB,2026-04-19T06:53:55Z,totals,Under,1.9,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,sportsbet,SportsBet,2026-04-19T06:54:19Z,h2h,Fremantle Dockers,1.08,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,sportsbet,SportsBet,2026-04-19T06:54:19Z,h2h,West Coast Eagles,7.5,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,sportsbet,SportsBet,2026-04-19T06:54:19Z,spreads,Fremantle Dockers,1.91,-44.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,sportsbet,SportsBet,2026-04-19T06:54:19Z,spreads,West Coast Eagles,1.91,44.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,sportsbet,SportsBet,2026-04-19T06:54:19Z,totals,Over,1.91,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,sportsbet,SportsBet,2026-04-19T06:54:19Z,totals,Under,1.91,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,neds,Neds,2026-04-19T06:53:42Z,h2h,Fremantle Dockers,1.07,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,neds,Neds,2026-04-19T06:53:42Z,h2h,West Coast Eagles,8.5,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,ladbrokes_au,Ladbrokes,2026-04-19T06:53:44Z,h2h,Fremantle Dockers,1.07,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,ladbrokes_au,Ladbrokes,2026-04-19T06:53:44Z,h2h,West Coast Eagles,8.5,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,pointsbetau,PointsBet (AU),2026-04-19T06:53:55Z,h2h,Fremantle Dockers,1.08,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,pointsbetau,PointsBet (AU),2026-04-19T06:53:55Z,h2h,West Coast Eagles,8.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,pointsbetau,PointsBet (AU),2026-04-19T06:53:55Z,spreads,Fremantle Dockers,1.9,-44.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,pointsbetau,PointsBet (AU),2026-04-19T06:53:55Z,spreads,West Coast Eagles,1.9,44.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,pointsbetau,PointsBet (AU),2026-04-19T06:53:55Z,totals,Over,1.88,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,pointsbetau,PointsBet (AU),2026-04-19T06:53:55Z,totals,Under,1.88,185.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betright,Bet Right,2026-04-19T06:53:55Z,h2h,Fremantle Dockers,1.07,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betright,Bet Right,2026-04-19T06:53:55Z,h2h,West Coast Eagles,8.5,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betright,Bet Right,2026-04-19T06:53:55Z,spreads,Fremantle Dockers,1.9,-45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,betright,Bet Right,2026-04-19T06:53:55Z,spreads,West Coast Eagles,1.9,45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,dabble_au,Dabble AU,2026-04-19T06:53:42Z,h2h,Fremantle Dockers,1.09,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,dabble_au,Dabble AU,2026-04-19T06:53:42Z,h2h,West Coast Eagles,8.0,,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,dabble_au,Dabble AU,2026-04-19T06:53:42Z,spreads,Fremantle Dockers,1.9,-45.5,20260419_065425
+b2a7097d4ff3de9f0e2a85e694561bcd,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,dabble_au,Dabble AU,2026-04-19T06:53:42Z,spreads,West Coast Eagles,1.9,45.5,20260419_065425
