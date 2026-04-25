@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,sportsbet,SportsBet,2026-04-25T08:13:05Z,h2h,Carlton Blues,8.0,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,sportsbet,SportsBet,2026-04-25T08:13:05Z,h2h,Fremantle Dockers,1.08,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,sportsbet,SportsBet,2026-04-25T08:13:05Z,spreads,Carlton Blues,1.9,42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,sportsbet,SportsBet,2026-04-25T08:13:05Z,spreads,Fremantle Dockers,1.9,-42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,sportsbet,SportsBet,2026-04-25T08:13:05Z,totals,Over,1.91,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,sportsbet,SportsBet,2026-04-25T08:13:05Z,totals,Under,1.89,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tab,TAB,2026-04-25T08:12:29Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tab,TAB,2026-04-25T08:12:29Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tab,TAB,2026-04-25T08:12:29Z,spreads,Carlton Blues,1.9,43.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tab,TAB,2026-04-25T08:12:29Z,spreads,Fremantle Dockers,1.9,-43.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tab,TAB,2026-04-25T08:12:29Z,totals,Over,1.9,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tab,TAB,2026-04-25T08:12:29Z,totals,Under,1.9,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betfair_ex_au,Betfair,2026-04-25T08:12:55Z,h2h,Carlton Blues,8.4,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betfair_ex_au,Betfair,2026-04-25T08:12:55Z,h2h,Fremantle Dockers,1.13,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betfair_ex_au,Betfair,2026-04-25T08:12:55Z,h2h_lay,Carlton Blues,8.6,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betfair_ex_au,Betfair,2026-04-25T08:12:55Z,h2h_lay,Fremantle Dockers,1.14,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,ladbrokes_au,Ladbrokes,2026-04-25T08:13:15Z,h2h,Carlton Blues,7.0,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,ladbrokes_au,Ladbrokes,2026-04-25T08:13:15Z,h2h,Fremantle Dockers,1.1,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,neds,Neds,2026-04-25T08:13:16Z,h2h,Carlton Blues,7.0,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,neds,Neds,2026-04-25T08:13:16Z,h2h,Fremantle Dockers,1.1,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,pointsbetau,PointsBet (AU),2026-04-25T08:13:16Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,pointsbetau,PointsBet (AU),2026-04-25T08:13:16Z,h2h,Fremantle Dockers,1.08,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,pointsbetau,PointsBet (AU),2026-04-25T08:13:16Z,spreads,Carlton Blues,1.88,42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,pointsbetau,PointsBet (AU),2026-04-25T08:13:16Z,spreads,Fremantle Dockers,1.88,-42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,pointsbetau,PointsBet (AU),2026-04-25T08:13:16Z,totals,Over,1.88,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,pointsbetau,PointsBet (AU),2026-04-25T08:13:16Z,totals,Under,1.88,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tabtouch,TABtouch,2026-04-25T08:13:16Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tabtouch,TABtouch,2026-04-25T08:13:16Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tabtouch,TABtouch,2026-04-25T08:13:16Z,spreads,Carlton Blues,1.89,42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tabtouch,TABtouch,2026-04-25T08:13:16Z,spreads,Fremantle Dockers,1.89,-42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tabtouch,TABtouch,2026-04-25T08:13:16Z,totals,Over,1.89,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,tabtouch,TABtouch,2026-04-25T08:13:16Z,totals,Under,1.89,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,unibet,Unibet,2026-04-25T08:13:03Z,h2h,Carlton Blues,6.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,unibet,Unibet,2026-04-25T08:13:03Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,playup,PlayUp,2026-04-25T08:13:15Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,playup,PlayUp,2026-04-25T08:13:15Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,playup,PlayUp,2026-04-25T08:13:15Z,spreads,Carlton Blues,1.9,43.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,playup,PlayUp,2026-04-25T08:13:15Z,spreads,Fremantle Dockers,1.9,-43.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,playup,PlayUp,2026-04-25T08:13:15Z,totals,Over,1.88,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,playup,PlayUp,2026-04-25T08:13:15Z,totals,Under,1.88,173.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betright,Bet Right,2026-04-25T08:12:28Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betright,Bet Right,2026-04-25T08:12:28Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betright,Bet Right,2026-04-25T08:12:28Z,spreads,Carlton Blues,1.9,43.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betright,Bet Right,2026-04-25T08:12:28Z,spreads,Fremantle Dockers,1.9,-43.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betr_au,Betr,2026-04-25T08:13:15Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betr_au,Betr,2026-04-25T08:13:15Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betr_au,Betr,2026-04-25T08:13:15Z,spreads,Carlton Blues,1.9,42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,betr_au,Betr,2026-04-25T08:13:15Z,spreads,Fremantle Dockers,1.9,-42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,dabble_au,Dabble AU,2026-04-25T08:12:39Z,h2h,Carlton Blues,7.5,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,dabble_au,Dabble AU,2026-04-25T08:12:39Z,h2h,Fremantle Dockers,1.09,,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,dabble_au,Dabble AU,2026-04-25T08:12:39Z,spreads,Carlton Blues,1.9,42.5,20260425_081317
+1292527b60baab2a53dea23036e717a6,Fremantle Dockers,Carlton Blues,2026-04-25T10:15:26Z,dabble_au,Dabble AU,2026-04-25T08:12:39Z,spreads,Fremantle Dockers,1.9,-42.5,20260425_081317
