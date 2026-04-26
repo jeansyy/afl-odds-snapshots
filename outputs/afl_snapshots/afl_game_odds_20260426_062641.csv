@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,sportsbet,SportsBet,2026-04-26T06:26:00Z,h2h,Greater Western Sydney Giants,1.47,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,sportsbet,SportsBet,2026-04-26T06:26:00Z,h2h,North Melbourne Kangaroos,2.62,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,sportsbet,SportsBet,2026-04-26T06:26:00Z,spreads,Greater Western Sydney Giants,1.91,-13.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,sportsbet,SportsBet,2026-04-26T06:26:00Z,spreads,North Melbourne Kangaroos,1.91,13.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,sportsbet,SportsBet,2026-04-26T06:26:00Z,totals,Over,1.89,185.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,sportsbet,SportsBet,2026-04-26T06:26:00Z,totals,Under,1.92,185.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tab,TAB,2026-04-26T06:26:24Z,h2h,Greater Western Sydney Giants,1.5,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tab,TAB,2026-04-26T06:26:24Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tab,TAB,2026-04-26T06:26:24Z,spreads,Greater Western Sydney Giants,1.9,-12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tab,TAB,2026-04-26T06:26:24Z,spreads,North Melbourne Kangaroos,1.9,12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tab,TAB,2026-04-26T06:26:24Z,totals,Over,1.9,184.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tab,TAB,2026-04-26T06:26:24Z,totals,Under,1.9,184.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betfair_ex_au,Betfair,2026-04-26T06:26:24Z,h2h,Greater Western Sydney Giants,1.54,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betfair_ex_au,Betfair,2026-04-26T06:26:24Z,h2h,North Melbourne Kangaroos,2.84,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betfair_ex_au,Betfair,2026-04-26T06:26:24Z,h2h_lay,Greater Western Sydney Giants,1.55,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betfair_ex_au,Betfair,2026-04-26T06:26:24Z,h2h_lay,North Melbourne Kangaroos,2.86,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,pointsbetau,PointsBet (AU),2026-04-26T06:26:23Z,h2h,Greater Western Sydney Giants,1.5,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,pointsbetau,PointsBet (AU),2026-04-26T06:26:23Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,pointsbetau,PointsBet (AU),2026-04-26T06:26:23Z,spreads,Greater Western Sydney Giants,1.92,-13.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,pointsbetau,PointsBet (AU),2026-04-26T06:26:23Z,spreads,North Melbourne Kangaroos,1.88,13.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,pointsbetau,PointsBet (AU),2026-04-26T06:26:23Z,totals,Over,1.88,184.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,pointsbetau,PointsBet (AU),2026-04-26T06:26:23Z,totals,Under,1.88,184.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,neds,Neds,2026-04-26T06:26:25Z,h2h,Greater Western Sydney Giants,1.5,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,neds,Neds,2026-04-26T06:26:25Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,ladbrokes_au,Ladbrokes,2026-04-26T06:26:35Z,h2h,Greater Western Sydney Giants,1.5,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,ladbrokes_au,Ladbrokes,2026-04-26T06:26:35Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betr_au,Betr,2026-04-26T06:26:12Z,h2h,Greater Western Sydney Giants,1.5,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betr_au,Betr,2026-04-26T06:26:12Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betr_au,Betr,2026-04-26T06:26:12Z,spreads,Greater Western Sydney Giants,1.9,-12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betr_au,Betr,2026-04-26T06:26:12Z,spreads,North Melbourne Kangaroos,1.9,12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,playup,PlayUp,2026-04-26T06:26:25Z,h2h,Greater Western Sydney Giants,1.5,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,playup,PlayUp,2026-04-26T06:26:25Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,playup,PlayUp,2026-04-26T06:26:25Z,spreads,Greater Western Sydney Giants,1.9,-12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,playup,PlayUp,2026-04-26T06:26:25Z,spreads,North Melbourne Kangaroos,1.9,12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,playup,PlayUp,2026-04-26T06:26:25Z,totals,Over,1.88,185.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,playup,PlayUp,2026-04-26T06:26:25Z,totals,Under,1.88,185.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tabtouch,TABtouch,2026-04-26T06:26:36Z,h2h,Greater Western Sydney Giants,1.49,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tabtouch,TABtouch,2026-04-26T06:26:36Z,h2h,North Melbourne Kangaroos,2.63,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tabtouch,TABtouch,2026-04-26T06:26:36Z,spreads,Greater Western Sydney Giants,1.89,-13.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tabtouch,TABtouch,2026-04-26T06:26:36Z,spreads,North Melbourne Kangaroos,1.89,13.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tabtouch,TABtouch,2026-04-26T06:26:36Z,totals,Over,1.89,185.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,tabtouch,TABtouch,2026-04-26T06:26:36Z,totals,Under,1.89,185.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,unibet,Unibet,2026-04-26T06:26:12Z,h2h,Greater Western Sydney Giants,1.48,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,unibet,Unibet,2026-04-26T06:26:12Z,h2h,North Melbourne Kangaroos,2.55,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betright,Bet Right,2026-04-26T06:26:12Z,h2h,Greater Western Sydney Giants,1.47,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betright,Bet Right,2026-04-26T06:26:12Z,h2h,North Melbourne Kangaroos,2.7,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betright,Bet Right,2026-04-26T06:26:12Z,spreads,Greater Western Sydney Giants,1.9,-12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,betright,Bet Right,2026-04-26T06:26:12Z,spreads,North Melbourne Kangaroos,1.9,12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,dabble_au,Dabble AU,2026-04-26T06:26:12Z,h2h,Greater Western Sydney Giants,1.48,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,dabble_au,Dabble AU,2026-04-26T06:26:12Z,h2h,North Melbourne Kangaroos,2.6,,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,dabble_au,Dabble AU,2026-04-26T06:26:12Z,spreads,Greater Western Sydney Giants,1.9,-12.5,20260426_062641
+e58a264bc6b20f8309a2b3f9c0708df9,Greater Western Sydney Giants,North Melbourne Kangaroos,2026-04-26T06:40:16Z,dabble_au,Dabble AU,2026-04-26T06:26:12Z,spreads,North Melbourne Kangaroos,1.9,12.5,20260426_062641
