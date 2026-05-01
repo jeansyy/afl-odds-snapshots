@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,unibet,Unibet,2026-05-01T09:15:42Z,h2h,Fremantle Dockers,1.35,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,unibet,Unibet,2026-05-01T09:15:42Z,h2h,Western Bulldogs,3.05,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,ladbrokes_au,Ladbrokes,2026-05-01T09:15:59Z,h2h,Fremantle Dockers,1.42,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,ladbrokes_au,Ladbrokes,2026-05-01T09:15:59Z,h2h,Western Bulldogs,2.9,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,neds,Neds,2026-05-01T09:15:59Z,h2h,Fremantle Dockers,1.42,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,neds,Neds,2026-05-01T09:15:59Z,h2h,Western Bulldogs,2.9,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betfair_ex_au,Betfair,2026-05-01T09:16:00Z,h2h,Fremantle Dockers,1.53,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betfair_ex_au,Betfair,2026-05-01T09:16:00Z,h2h,Western Bulldogs,2.88,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betfair_ex_au,Betfair,2026-05-01T09:16:00Z,h2h_lay,Fremantle Dockers,1.54,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betfair_ex_au,Betfair,2026-05-01T09:16:00Z,h2h_lay,Western Bulldogs,2.9,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tab,TAB,2026-05-01T09:15:42Z,h2h,Fremantle Dockers,1.45,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tab,TAB,2026-05-01T09:15:42Z,h2h,Western Bulldogs,2.75,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tab,TAB,2026-05-01T09:15:42Z,spreads,Fremantle Dockers,1.9,-15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tab,TAB,2026-05-01T09:15:42Z,spreads,Western Bulldogs,1.9,15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tab,TAB,2026-05-01T09:15:42Z,totals,Over,1.9,183.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tab,TAB,2026-05-01T09:15:42Z,totals,Under,1.9,183.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tabtouch,TABtouch,2026-05-01T09:16:01Z,h2h,Fremantle Dockers,1.35,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tabtouch,TABtouch,2026-05-01T09:16:01Z,h2h,Western Bulldogs,3.2,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tabtouch,TABtouch,2026-05-01T09:16:01Z,spreads,Fremantle Dockers,1.89,-18.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tabtouch,TABtouch,2026-05-01T09:16:01Z,spreads,Western Bulldogs,1.89,18.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tabtouch,TABtouch,2026-05-01T09:16:01Z,totals,Over,1.89,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,tabtouch,TABtouch,2026-05-01T09:16:01Z,totals,Under,1.89,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,playup,PlayUp,2026-05-01T09:15:23Z,h2h,Fremantle Dockers,1.45,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,playup,PlayUp,2026-05-01T09:15:23Z,h2h,Western Bulldogs,2.75,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,playup,PlayUp,2026-05-01T09:15:23Z,spreads,Fremantle Dockers,1.95,-16.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,playup,PlayUp,2026-05-01T09:15:23Z,spreads,Western Bulldogs,1.85,16.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,playup,PlayUp,2026-05-01T09:15:23Z,totals,Over,1.88,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,playup,PlayUp,2026-05-01T09:15:23Z,totals,Under,1.88,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betr_au,Betr,2026-05-01T09:15:59Z,h2h,Fremantle Dockers,1.47,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betr_au,Betr,2026-05-01T09:15:59Z,h2h,Western Bulldogs,2.7,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betr_au,Betr,2026-05-01T09:15:59Z,spreads,Fremantle Dockers,1.9,-15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betr_au,Betr,2026-05-01T09:15:59Z,spreads,Western Bulldogs,1.9,15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,sportsbet,SportsBet,2026-05-01T09:16:00Z,h2h,Fremantle Dockers,1.39,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,sportsbet,SportsBet,2026-05-01T09:16:00Z,h2h,Western Bulldogs,2.93,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,sportsbet,SportsBet,2026-05-01T09:16:00Z,spreads,Fremantle Dockers,1.92,-17.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,sportsbet,SportsBet,2026-05-01T09:16:00Z,spreads,Western Bulldogs,1.9,17.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,sportsbet,SportsBet,2026-05-01T09:16:00Z,totals,Over,1.91,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,sportsbet,SportsBet,2026-05-01T09:16:00Z,totals,Under,1.91,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,pointsbetau,PointsBet (AU),2026-05-01T09:15:42Z,h2h,Fremantle Dockers,1.45,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,pointsbetau,PointsBet (AU),2026-05-01T09:15:42Z,h2h,Western Bulldogs,2.75,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,pointsbetau,PointsBet (AU),2026-05-01T09:15:42Z,spreads,Fremantle Dockers,1.9,-15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,pointsbetau,PointsBet (AU),2026-05-01T09:15:42Z,spreads,Western Bulldogs,1.9,15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,pointsbetau,PointsBet (AU),2026-05-01T09:15:42Z,totals,Over,1.88,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,pointsbetau,PointsBet (AU),2026-05-01T09:15:42Z,totals,Under,1.88,184.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betright,Bet Right,2026-05-01T09:15:59Z,h2h,Fremantle Dockers,1.47,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betright,Bet Right,2026-05-01T09:15:59Z,h2h,Western Bulldogs,2.7,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betright,Bet Right,2026-05-01T09:15:59Z,spreads,Fremantle Dockers,1.9,-15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,betright,Bet Right,2026-05-01T09:15:59Z,spreads,Western Bulldogs,1.9,15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,dabble_au,Dabble AU,2026-05-01T09:15:27Z,h2h,Fremantle Dockers,1.44,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,dabble_au,Dabble AU,2026-05-01T09:15:27Z,h2h,Western Bulldogs,2.85,,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,dabble_au,Dabble AU,2026-05-01T09:15:27Z,spreads,Fremantle Dockers,1.9,-15.5,20260501_091610
+fa2c82d5b65b170c8d8b1422f631e527,Western Bulldogs,Fremantle Dockers,2026-05-01T09:30:06Z,dabble_au,Dabble AU,2026-05-01T09:15:27Z,spreads,Western Bulldogs,1.9,15.5,20260501_091610
