@@ -1,0 +1,105 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,unibet,Unibet,2026-05-02T22:50:36Z,h2h,Melbourne Demons,4.9,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,unibet,Unibet,2026-05-02T22:50:36Z,h2h,Sydney Swans,1.16,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h,Melbourne Demons,6.6,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h,Sydney Swans,1.17,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h_lay,Melbourne Demons,7.0,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h_lay,Sydney Swans,1.18,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,neds,Neds,2026-05-02T22:49:38Z,h2h,Melbourne Demons,5.0,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,neds,Neds,2026-05-02T22:49:38Z,h2h,Sydney Swans,1.17,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,ladbrokes_au,Ladbrokes,2026-05-02T22:50:14Z,h2h,Melbourne Demons,5.0,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,ladbrokes_au,Ladbrokes,2026-05-02T22:50:14Z,h2h,Sydney Swans,1.17,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tab,TAB,2026-05-02T22:49:40Z,h2h,Melbourne Demons,5.5,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tab,TAB,2026-05-02T22:49:40Z,h2h,Sydney Swans,1.15,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tab,TAB,2026-05-02T22:49:40Z,spreads,Melbourne Demons,1.9,34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tab,TAB,2026-05-02T22:49:40Z,spreads,Sydney Swans,1.9,-34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tab,TAB,2026-05-02T22:49:40Z,totals,Over,1.9,192.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tab,TAB,2026-05-02T22:49:40Z,totals,Under,1.9,192.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,h2h,Melbourne Demons,5.25,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,h2h,Sydney Swans,1.16,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,spreads,Melbourne Demons,1.89,34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,spreads,Sydney Swans,1.89,-34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,totals,Over,1.89,192.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,totals,Under,1.89,192.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,playup,PlayUp,2026-05-02T22:50:13Z,h2h,Melbourne Demons,5.5,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,playup,PlayUp,2026-05-02T22:50:13Z,h2h,Sydney Swans,1.15,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,playup,PlayUp,2026-05-02T22:50:13Z,spreads,Melbourne Demons,1.9,34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,playup,PlayUp,2026-05-02T22:50:13Z,spreads,Sydney Swans,1.9,-34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,playup,PlayUp,2026-05-02T22:50:13Z,totals,Over,1.88,192.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,playup,PlayUp,2026-05-02T22:50:13Z,totals,Under,1.88,192.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betr_au,Betr,2026-05-02T22:49:40Z,h2h,Melbourne Demons,5.5,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betr_au,Betr,2026-05-02T22:49:40Z,h2h,Sydney Swans,1.15,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betr_au,Betr,2026-05-02T22:49:40Z,spreads,Melbourne Demons,1.9,34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betr_au,Betr,2026-05-02T22:49:40Z,spreads,Sydney Swans,1.9,-34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,h2h,Melbourne Demons,5.75,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,h2h,Sydney Swans,1.14,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,spreads,Melbourne Demons,1.89,36.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,spreads,Sydney Swans,1.91,-36.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,totals,Over,1.89,191.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,totals,Under,1.91,191.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,h2h,Melbourne Demons,5.5,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,h2h,Sydney Swans,1.13,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,spreads,Melbourne Demons,1.88,36.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,spreads,Sydney Swans,1.88,-36.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,totals,Over,1.88,191.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,totals,Under,1.88,191.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betright,Bet Right,2026-05-02T22:49:39Z,h2h,Melbourne Demons,5.25,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betright,Bet Right,2026-05-02T22:49:39Z,h2h,Sydney Swans,1.13,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betright,Bet Right,2026-05-02T22:49:39Z,spreads,Melbourne Demons,1.9,34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,betright,Bet Right,2026-05-02T22:49:39Z,spreads,Sydney Swans,1.9,-34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,h2h,Melbourne Demons,5.5,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,h2h,Sydney Swans,1.15,,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,spreads,Melbourne Demons,1.9,34.5,20260502_225040_daily
+c72528ad14d1b6e87a338022ce78cdc7,Sydney Swans,Melbourne Demons,2026-05-03T05:15:36Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,spreads,Sydney Swans,1.9,-34.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,h2h,Gold Coast Suns,1.6,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,h2h,Greater Western Sydney Giants,2.35,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,spreads,Gold Coast Suns,1.91,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,spreads,Greater Western Sydney Giants,1.89,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,totals,Over,1.93,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,sportsbet,SportsBet,2026-05-02T22:50:15Z,totals,Under,1.87,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,ladbrokes_au,Ladbrokes,2026-05-02T22:50:14Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,ladbrokes_au,Ladbrokes,2026-05-02T22:50:14Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,neds,Neds,2026-05-02T22:49:38Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,neds,Neds,2026-05-02T22:49:38Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h,Gold Coast Suns,1.61,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h,Greater Western Sydney Giants,2.6,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h_lay,Gold Coast Suns,1.63,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betfair_ex_au,Betfair,2026-05-02T22:50:34Z,h2h_lay,Greater Western Sydney Giants,2.64,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tab,TAB,2026-05-02T22:49:40Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tab,TAB,2026-05-02T22:49:40Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tab,TAB,2026-05-02T22:49:40Z,spreads,Gold Coast Suns,1.9,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tab,TAB,2026-05-02T22:49:40Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tab,TAB,2026-05-02T22:49:40Z,totals,Over,1.9,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tab,TAB,2026-05-02T22:49:40Z,totals,Under,1.9,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betr_au,Betr,2026-05-02T22:49:40Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betr_au,Betr,2026-05-02T22:49:40Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betr_au,Betr,2026-05-02T22:49:40Z,spreads,Gold Coast Suns,1.9,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betr_au,Betr,2026-05-02T22:49:40Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,playup,PlayUp,2026-05-02T22:50:13Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,playup,PlayUp,2026-05-02T22:50:13Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,playup,PlayUp,2026-05-02T22:50:13Z,spreads,Gold Coast Suns,1.9,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,playup,PlayUp,2026-05-02T22:50:13Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,playup,PlayUp,2026-05-02T22:50:13Z,totals,Over,1.88,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,playup,PlayUp,2026-05-02T22:50:13Z,totals,Under,1.88,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betright,Bet Right,2026-05-02T22:49:39Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betright,Bet Right,2026-05-02T22:49:39Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betright,Bet Right,2026-05-02T22:49:39Z,spreads,Gold Coast Suns,1.85,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,betright,Bet Right,2026-05-02T22:49:39Z,spreads,Greater Western Sydney Giants,1.95,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,h2h,Gold Coast Suns,1.56,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,h2h,Greater Western Sydney Giants,2.4,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,spreads,Gold Coast Suns,1.89,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,spreads,Greater Western Sydney Giants,1.89,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,totals,Over,1.89,184.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,tabtouch,TABtouch,2026-05-02T22:50:32Z,totals,Under,1.89,184.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,unibet,Unibet,2026-05-02T22:50:36Z,h2h,Gold Coast Suns,1.56,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,unibet,Unibet,2026-05-02T22:50:36Z,h2h,Greater Western Sydney Giants,2.35,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,h2h,Gold Coast Suns,1.55,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,h2h,Greater Western Sydney Giants,2.45,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,spreads,Gold Coast Suns,1.88,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,spreads,Greater Western Sydney Giants,1.88,9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,totals,Over,1.9,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,pointsbetau,PointsBet (AU),2026-05-02T22:50:33Z,totals,Under,1.85,186.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,h2h,Gold Coast Suns,1.58,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,h2h,Greater Western Sydney Giants,2.4,,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,spreads,Gold Coast Suns,1.9,-9.5,20260502_225040_daily
+715f941d28a7d63ed6f61b19cd669d07,Gold Coast Suns,Greater Western Sydney Giants,2026-05-03T09:20:41Z,dabble_au,Dabble AU,2026-05-02T22:49:38Z,spreads,Greater Western Sydney Giants,1.9,9.5,20260502_225040_daily
