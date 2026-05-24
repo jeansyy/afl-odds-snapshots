@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,sportsbet,SportsBet,2026-05-24T01:31:19Z,h2h,Brisbane Lions,1.5,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,sportsbet,SportsBet,2026-05-24T01:31:19Z,h2h,Greater Western Sydney Giants,2.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,sportsbet,SportsBet,2026-05-24T01:31:19Z,spreads,Brisbane Lions,1.89,-12.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,sportsbet,SportsBet,2026-05-24T01:31:19Z,spreads,Greater Western Sydney Giants,1.91,12.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,sportsbet,SportsBet,2026-05-24T01:31:19Z,totals,Over,1.9,190.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,sportsbet,SportsBet,2026-05-24T01:31:19Z,totals,Under,1.9,190.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,ladbrokes_au,Ladbrokes,2026-05-24T01:30:59Z,h2h,Brisbane Lions,1.57,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,ladbrokes_au,Ladbrokes,2026-05-24T01:30:59Z,h2h,Greater Western Sydney Giants,2.45,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betfair_ex_au,Betfair,2026-05-24T01:31:19Z,h2h,Brisbane Lions,1.64,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betfair_ex_au,Betfair,2026-05-24T01:31:19Z,h2h,Greater Western Sydney Giants,2.54,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betfair_ex_au,Betfair,2026-05-24T01:31:19Z,h2h_lay,Brisbane Lions,1.65,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betfair_ex_au,Betfair,2026-05-24T01:31:19Z,h2h_lay,Greater Western Sydney Giants,2.58,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,neds,Neds,2026-05-24T01:31:19Z,h2h,Brisbane Lions,1.57,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,neds,Neds,2026-05-24T01:31:19Z,h2h,Greater Western Sydney Giants,2.45,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tab,TAB,2026-05-24T01:30:40Z,h2h,Brisbane Lions,1.52,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tab,TAB,2026-05-24T01:30:40Z,h2h,Greater Western Sydney Giants,2.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tab,TAB,2026-05-24T01:30:40Z,spreads,Brisbane Lions,1.9,-10.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tab,TAB,2026-05-24T01:30:40Z,spreads,Greater Western Sydney Giants,1.9,10.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tab,TAB,2026-05-24T01:30:40Z,totals,Over,1.9,189.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tab,TAB,2026-05-24T01:30:40Z,totals,Under,1.9,189.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,pointsbetau,PointsBet (AU),2026-05-24T01:31:00Z,h2h,Brisbane Lions,1.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,pointsbetau,PointsBet (AU),2026-05-24T01:31:00Z,h2h,Greater Western Sydney Giants,2.4,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,pointsbetau,PointsBet (AU),2026-05-24T01:31:00Z,spreads,Brisbane Lions,1.88,-11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,pointsbetau,PointsBet (AU),2026-05-24T01:31:00Z,spreads,Greater Western Sydney Giants,1.88,11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,pointsbetau,PointsBet (AU),2026-05-24T01:31:00Z,totals,Over,1.88,189.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,pointsbetau,PointsBet (AU),2026-05-24T01:31:00Z,totals,Under,1.88,189.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betr_au,Betr,2026-05-24T01:30:59Z,h2h,Brisbane Lions,1.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betr_au,Betr,2026-05-24T01:30:59Z,h2h,Greater Western Sydney Giants,2.45,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betr_au,Betr,2026-05-24T01:30:59Z,spreads,Brisbane Lions,1.95,-11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betr_au,Betr,2026-05-24T01:30:59Z,spreads,Greater Western Sydney Giants,1.85,11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,playup,PlayUp,2026-05-24T01:30:39Z,h2h,Brisbane Lions,1.53,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,playup,PlayUp,2026-05-24T01:30:39Z,h2h,Greater Western Sydney Giants,2.5,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,playup,PlayUp,2026-05-24T01:30:39Z,spreads,Brisbane Lions,1.9,-11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,playup,PlayUp,2026-05-24T01:30:39Z,spreads,Greater Western Sydney Giants,1.9,11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,playup,PlayUp,2026-05-24T01:30:39Z,totals,Over,1.88,189.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,playup,PlayUp,2026-05-24T01:30:39Z,totals,Under,1.88,189.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betright,Bet Right,2026-05-24T01:30:59Z,h2h,Brisbane Lions,1.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betright,Bet Right,2026-05-24T01:30:59Z,h2h,Greater Western Sydney Giants,2.45,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betright,Bet Right,2026-05-24T01:30:59Z,spreads,Brisbane Lions,1.9,-10.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,betright,Bet Right,2026-05-24T01:30:59Z,spreads,Greater Western Sydney Giants,1.9,10.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tabtouch,TABtouch,2026-05-24T01:31:19Z,h2h,Brisbane Lions,1.5,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tabtouch,TABtouch,2026-05-24T01:31:19Z,h2h,Greater Western Sydney Giants,2.6,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tabtouch,TABtouch,2026-05-24T01:31:19Z,spreads,Brisbane Lions,1.89,-12.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tabtouch,TABtouch,2026-05-24T01:31:19Z,spreads,Greater Western Sydney Giants,1.89,12.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tabtouch,TABtouch,2026-05-24T01:31:19Z,totals,Over,1.89,188.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,tabtouch,TABtouch,2026-05-24T01:31:19Z,totals,Under,1.89,188.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,unibet,Unibet,2026-05-24T01:31:00Z,h2h,Brisbane Lions,1.5,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,unibet,Unibet,2026-05-24T01:31:00Z,h2h,Greater Western Sydney Giants,2.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,dabble_au,Dabble AU,2026-05-24T01:31:19Z,h2h,Brisbane Lions,1.55,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,dabble_au,Dabble AU,2026-05-24T01:31:19Z,h2h,Greater Western Sydney Giants,2.45,,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,dabble_au,Dabble AU,2026-05-24T01:31:19Z,spreads,Brisbane Lions,1.92,-11.5,20260524_013131
+c2359222d8b43b27ad6d7cbc6f780932,Greater Western Sydney Giants,Brisbane Lions,2026-05-24T02:30:07Z,dabble_au,Dabble AU,2026-05-24T01:31:19Z,spreads,Greater Western Sydney Giants,1.88,11.5,20260524_013131
