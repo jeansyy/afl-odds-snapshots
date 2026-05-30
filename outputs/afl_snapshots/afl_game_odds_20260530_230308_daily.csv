@@ -1,0 +1,105 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,h2h,Greater Western Sydney Giants,1.85,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,h2h,Melbourne Demons,2.0,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,spreads,Greater Western Sydney Giants,1.9,-1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,spreads,Melbourne Demons,1.9,1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,totals,Over,1.9,187.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,totals,Under,1.9,187.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h,Greater Western Sydney Giants,1.96,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h,Melbourne Demons,2.02,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h_lay,Greater Western Sydney Giants,1.97,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h_lay,Melbourne Demons,2.04,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betr_au,Betr,2026-05-30T23:02:32Z,h2h,Greater Western Sydney Giants,1.9,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betr_au,Betr,2026-05-30T23:02:32Z,h2h,Melbourne Demons,1.9,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betr_au,Betr,2026-05-30T23:02:32Z,spreads,Greater Western Sydney Giants,1.85,1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betr_au,Betr,2026-05-30T23:02:32Z,spreads,Melbourne Demons,1.95,-1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,ladbrokes_au,Ladbrokes,2026-05-30T23:02:30Z,h2h,Greater Western Sydney Giants,1.95,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,ladbrokes_au,Ladbrokes,2026-05-30T23:02:30Z,h2h,Melbourne Demons,1.87,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,neds,Neds,2026-05-30T23:02:11Z,h2h,Greater Western Sydney Giants,1.95,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,neds,Neds,2026-05-30T23:02:11Z,h2h,Melbourne Demons,1.87,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tab,TAB,2026-05-30T23:02:52Z,h2h,Greater Western Sydney Giants,1.95,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tab,TAB,2026-05-30T23:02:52Z,h2h,Melbourne Demons,1.85,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tab,TAB,2026-05-30T23:02:52Z,spreads,Greater Western Sydney Giants,1.9,1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tab,TAB,2026-05-30T23:02:52Z,spreads,Melbourne Demons,1.9,-1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tab,TAB,2026-05-30T23:02:52Z,totals,Over,1.9,187.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tab,TAB,2026-05-30T23:02:52Z,totals,Under,1.9,187.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,h2h,Greater Western Sydney Giants,1.95,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,h2h,Melbourne Demons,1.83,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,spreads,Greater Western Sydney Giants,1.9,0.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,spreads,Melbourne Demons,1.85,-0.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,totals,Over,1.88,187.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,totals,Under,1.88,187.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,playup,PlayUp,2026-05-30T23:02:49Z,h2h,Greater Western Sydney Giants,1.95,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,playup,PlayUp,2026-05-30T23:02:49Z,h2h,Melbourne Demons,1.85,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,playup,PlayUp,2026-05-30T23:02:49Z,spreads,Greater Western Sydney Giants,1.9,1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,playup,PlayUp,2026-05-30T23:02:49Z,spreads,Melbourne Demons,1.9,-1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,playup,PlayUp,2026-05-30T23:02:49Z,totals,Over,1.88,186.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,playup,PlayUp,2026-05-30T23:02:49Z,totals,Under,1.88,186.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betright,Bet Right,2026-05-30T23:02:51Z,h2h,Greater Western Sydney Giants,1.8,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betright,Bet Right,2026-05-30T23:02:51Z,h2h,Melbourne Demons,2.0,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betright,Bet Right,2026-05-30T23:02:51Z,spreads,Greater Western Sydney Giants,1.9,-1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,betright,Bet Right,2026-05-30T23:02:51Z,spreads,Melbourne Demons,1.9,1.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,unibet,Unibet,2026-05-30T23:02:49Z,h2h,Greater Western Sydney Giants,1.89,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,unibet,Unibet,2026-05-30T23:02:49Z,h2h,Melbourne Demons,1.87,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,h2h,Greater Western Sydney Giants,1.89,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,h2h,Melbourne Demons,1.89,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,spreads,Greater Western Sydney Giants,1.88,0.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,spreads,Melbourne Demons,1.92,-0.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,totals,Over,1.89,186.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,totals,Under,1.89,186.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,h2h,Greater Western Sydney Giants,1.92,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,h2h,Melbourne Demons,1.88,,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,spreads,Greater Western Sydney Giants,1.9,0.5,20260530_230308_daily
+8c2145e03ce0cdd3befd7b7f6d07f353,Melbourne Demons,Greater Western Sydney Giants,2026-05-31T05:15:16Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,spreads,Melbourne Demons,1.9,-0.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,h2h,Essendon Bombers,2.59,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,h2h,West Coast Eagles,1.5,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,spreads,Essendon Bombers,1.91,11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,spreads,West Coast Eagles,1.89,-11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,totals,Over,1.9,150.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,sportsbet,SportsBet,2026-05-30T23:02:49Z,totals,Under,1.9,150.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,ladbrokes_au,Ladbrokes,2026-05-30T23:02:30Z,h2h,Essendon Bombers,2.8,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,ladbrokes_au,Ladbrokes,2026-05-30T23:02:30Z,h2h,West Coast Eagles,1.45,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h,Essendon Bombers,3.05,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h,West Coast Eagles,1.48,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h_lay,Essendon Bombers,3.1,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betfair_ex_au,Betfair,2026-05-30T23:02:52Z,h2h_lay,West Coast Eagles,1.49,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,neds,Neds,2026-05-30T23:02:11Z,h2h,Essendon Bombers,2.8,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,neds,Neds,2026-05-30T23:02:11Z,h2h,West Coast Eagles,1.45,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,playup,PlayUp,2026-05-30T23:02:49Z,h2h,Essendon Bombers,2.85,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,playup,PlayUp,2026-05-30T23:02:49Z,h2h,West Coast Eagles,1.43,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,playup,PlayUp,2026-05-30T23:02:49Z,spreads,Essendon Bombers,1.9,11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,playup,PlayUp,2026-05-30T23:02:49Z,spreads,West Coast Eagles,1.9,-11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,playup,PlayUp,2026-05-30T23:02:49Z,totals,Over,1.88,151.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,playup,PlayUp,2026-05-30T23:02:49Z,totals,Under,1.88,151.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tab,TAB,2026-05-30T23:02:52Z,h2h,Essendon Bombers,2.85,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tab,TAB,2026-05-30T23:02:52Z,h2h,West Coast Eagles,1.43,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tab,TAB,2026-05-30T23:02:52Z,spreads,Essendon Bombers,1.9,11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tab,TAB,2026-05-30T23:02:52Z,spreads,West Coast Eagles,1.9,-11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tab,TAB,2026-05-30T23:02:52Z,totals,Over,1.95,151.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tab,TAB,2026-05-30T23:02:52Z,totals,Under,1.85,151.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,unibet,Unibet,2026-05-30T23:02:49Z,h2h,Essendon Bombers,2.65,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,unibet,Unibet,2026-05-30T23:02:49Z,h2h,West Coast Eagles,1.45,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,h2h,Essendon Bombers,2.75,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,h2h,West Coast Eagles,1.44,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,spreads,Essendon Bombers,1.92,11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,spreads,West Coast Eagles,1.88,-11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,totals,Over,1.89,152.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,tabtouch,TABtouch,2026-05-30T23:02:51Z,totals,Under,1.89,152.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betr_au,Betr,2026-05-30T23:02:32Z,h2h,Essendon Bombers,2.8,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betr_au,Betr,2026-05-30T23:02:32Z,h2h,West Coast Eagles,1.44,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betr_au,Betr,2026-05-30T23:02:32Z,spreads,Essendon Bombers,1.95,11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betr_au,Betr,2026-05-30T23:02:32Z,spreads,West Coast Eagles,1.85,-11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,h2h,Essendon Bombers,2.75,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,h2h,West Coast Eagles,1.44,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,spreads,Essendon Bombers,1.88,10.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,spreads,West Coast Eagles,1.88,-10.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,totals,Over,1.88,150.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,pointsbetau,PointsBet (AU),2026-05-30T23:02:31Z,totals,Under,1.88,150.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betright,Bet Right,2026-05-30T23:02:51Z,h2h,Essendon Bombers,2.75,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betright,Bet Right,2026-05-30T23:02:51Z,h2h,West Coast Eagles,1.45,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betright,Bet Right,2026-05-30T23:02:51Z,spreads,Essendon Bombers,1.9,11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,betright,Bet Right,2026-05-30T23:02:51Z,spreads,West Coast Eagles,1.9,-11.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,h2h,Essendon Bombers,2.6,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,h2h,West Coast Eagles,1.5,,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,spreads,Essendon Bombers,1.9,10.5,20260530_230308_daily
+197da8770f8659243f7f905e610098ce,West Coast Eagles,Essendon Bombers,2026-05-31T09:20:54Z,dabble_au,Dabble AU,2026-05-30T23:02:52Z,spreads,West Coast Eagles,1.9,-10.5,20260530_230308_daily
