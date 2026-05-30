@@ -1,0 +1,53 @@
+event_id,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,sportsbet,SportsBet,2026-05-30T09:33:16Z,h2h,Collingwood Magpies,2.43,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,sportsbet,SportsBet,2026-05-30T09:33:16Z,h2h,Western Bulldogs,1.54,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,sportsbet,SportsBet,2026-05-30T09:33:16Z,spreads,Collingwood Magpies,1.91,10.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,sportsbet,SportsBet,2026-05-30T09:33:16Z,spreads,Western Bulldogs,1.91,-10.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,sportsbet,SportsBet,2026-05-30T09:33:16Z,totals,Over,1.93,177.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,sportsbet,SportsBet,2026-05-30T09:33:16Z,totals,Under,1.89,177.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betfair_ex_au,Betfair,2026-05-30T09:33:18Z,h2h,Collingwood Magpies,2.62,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betfair_ex_au,Betfair,2026-05-30T09:33:18Z,h2h,Western Bulldogs,1.6,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betfair_ex_au,Betfair,2026-05-30T09:33:18Z,h2h_lay,Collingwood Magpies,2.64,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betfair_ex_au,Betfair,2026-05-30T09:33:18Z,h2h_lay,Western Bulldogs,1.61,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betr_au,Betr,2026-05-30T09:32:38Z,h2h,Collingwood Magpies,2.4,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betr_au,Betr,2026-05-30T09:32:38Z,h2h,Western Bulldogs,1.57,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betr_au,Betr,2026-05-30T09:32:38Z,spreads,Collingwood Magpies,1.9,9.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betr_au,Betr,2026-05-30T09:32:38Z,spreads,Western Bulldogs,1.9,-9.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,pointsbetau,PointsBet (AU),2026-05-30T09:33:17Z,h2h,Collingwood Magpies,2.4,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,pointsbetau,PointsBet (AU),2026-05-30T09:33:17Z,h2h,Western Bulldogs,1.55,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,pointsbetau,PointsBet (AU),2026-05-30T09:33:17Z,spreads,Collingwood Magpies,1.9,10.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,pointsbetau,PointsBet (AU),2026-05-30T09:33:17Z,spreads,Western Bulldogs,1.9,-10.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,pointsbetau,PointsBet (AU),2026-05-30T09:33:17Z,totals,Over,1.9,177.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,pointsbetau,PointsBet (AU),2026-05-30T09:33:17Z,totals,Under,1.9,177.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,neds,Neds,2026-05-30T09:32:57Z,h2h,Collingwood Magpies,2.5,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,neds,Neds,2026-05-30T09:32:57Z,h2h,Western Bulldogs,1.53,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,ladbrokes_au,Ladbrokes,2026-05-30T09:33:16Z,h2h,Collingwood Magpies,2.5,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,ladbrokes_au,Ladbrokes,2026-05-30T09:33:16Z,h2h,Western Bulldogs,1.53,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tab,TAB,2026-05-30T09:32:41Z,h2h,Collingwood Magpies,2.4,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tab,TAB,2026-05-30T09:32:41Z,h2h,Western Bulldogs,1.58,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tab,TAB,2026-05-30T09:32:41Z,spreads,Collingwood Magpies,1.9,8.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tab,TAB,2026-05-30T09:32:41Z,spreads,Western Bulldogs,1.9,-8.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tab,TAB,2026-05-30T09:32:41Z,totals,Over,1.9,177.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tab,TAB,2026-05-30T09:32:41Z,totals,Under,1.9,177.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,playup,PlayUp,2026-05-30T09:32:39Z,h2h,Collingwood Magpies,2.35,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,playup,PlayUp,2026-05-30T09:32:39Z,h2h,Western Bulldogs,1.6,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,playup,PlayUp,2026-05-30T09:32:39Z,spreads,Collingwood Magpies,1.9,7.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,playup,PlayUp,2026-05-30T09:32:39Z,spreads,Western Bulldogs,1.9,-7.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,playup,PlayUp,2026-05-30T09:32:39Z,totals,Over,1.88,176.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,playup,PlayUp,2026-05-30T09:32:39Z,totals,Under,1.88,176.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betright,Bet Right,2026-05-30T09:32:57Z,h2h,Collingwood Magpies,2.35,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betright,Bet Right,2026-05-30T09:32:57Z,h2h,Western Bulldogs,1.62,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betright,Bet Right,2026-05-30T09:32:57Z,spreads,Collingwood Magpies,1.9,8.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,betright,Bet Right,2026-05-30T09:32:57Z,spreads,Western Bulldogs,1.9,-8.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,unibet,Unibet,2026-05-30T09:33:16Z,h2h,Collingwood Magpies,2.3,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,unibet,Unibet,2026-05-30T09:33:16Z,h2h,Western Bulldogs,1.58,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tabtouch,TABtouch,2026-05-30T09:32:57Z,h2h,Collingwood Magpies,2.4,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tabtouch,TABtouch,2026-05-30T09:32:57Z,h2h,Western Bulldogs,1.57,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tabtouch,TABtouch,2026-05-30T09:32:57Z,spreads,Collingwood Magpies,1.88,9.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tabtouch,TABtouch,2026-05-30T09:32:57Z,spreads,Western Bulldogs,1.91,-9.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tabtouch,TABtouch,2026-05-30T09:32:57Z,totals,Over,1.89,176.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,tabtouch,TABtouch,2026-05-30T09:32:57Z,totals,Under,1.89,176.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,dabble_au,Dabble AU,2026-05-30T09:32:40Z,h2h,Collingwood Magpies,2.5,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,dabble_au,Dabble AU,2026-05-30T09:32:40Z,h2h,Western Bulldogs,1.55,,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,dabble_au,Dabble AU,2026-05-30T09:32:40Z,spreads,Collingwood Magpies,1.9,9.5,20260530_093320
+5e06aeff84a466044adc1db2aae029cb,Western Bulldogs,Collingwood Magpies,2026-05-30T09:35:58Z,dabble_au,Dabble AU,2026-05-30T09:32:40Z,spreads,Western Bulldogs,1.9,-9.5,20260530_093320
